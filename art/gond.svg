@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+    <defs>
+      <radialGradient id="gondBg" cx="50%" cy="50%" r="70%">
+        <stop offset="0%" stop-color="#FDF8ED" />
+        <stop offset="100%" stop-color="#EBE2CD" />
+      </radialGradient>
+    </defs>
+    <rect width="800" height="600" fill="url(#gondBg)" />
+    <rect x="25" y="25" width="750" height="550" fill="none" stroke="#183D32" stroke-width="4" />
+    <rect x="35" y="35" width="730" height="530" fill="none" stroke="#C49A53" stroke-width="2" stroke-dasharray="6,4" />
+
+    <!-- Gond Sacred Tree of Life (Curved Organic Branches filled with dots) -->
+    <g transform="translate(400, 520)">
+      <path d="M0,0 C-30,-120 40,-240 10,-380 M-10,-140 C-110,-200 -160,-280 -140,-370 M10,-200 C110,-250 170,-320 140,-410" stroke="#183D32" stroke-width="14" fill="none" stroke-linecap="round" />
+      <!-- Stylized Bird Perched on Tree -->
+      <g transform="translate(20, -380)">
+        <path d="M0,0 C30,-30 80,-20 90,10 C60,40 20,30 0,0 Z" fill="#B65D42" stroke="#183D32" stroke-width="3" />
+        <circle cx="70" cy="-5" r="4" fill="#FFF" />
+        <circle cx="71" cy="-5" r="2" fill="#183D32" />
+        <path d="M90,10 L120,5 L95,20 Z" fill="#C49A53" />
+      </g>
+    </g>
+
+    <!-- Iconic Gond Spotted Deer (Barasingha / Chital) -->
+    <g transform="translate(260, 340)">
+      <ellipse cx="0" cy="0" rx="95" ry="60" fill="#E88B43" stroke="#183D32" stroke-width="4" />
+      <!-- Intricate Gond Dot-and-Line Pattern on Body -->
+      
+        <circle cx="-50" cy="-20" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-50" cy="-20" r="2" fill="#183D32" />
+      
+        <circle cx="-20" cy="-30" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-20" cy="-30" r="2" fill="#183D32" />
+      
+        <circle cx="10" cy="-20" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="10" cy="-20" r="2" fill="#183D32" />
+      
+        <circle cx="40" cy="-10" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="40" cy="-10" r="2" fill="#183D32" />
+      
+        <circle cx="-60" cy="10" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-60" cy="10" r="2" fill="#183D32" />
+      
+        <circle cx="-30" cy="0" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-30" cy="0" r="2" fill="#183D32" />
+      
+        <circle cx="0" cy="10" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="0" cy="10" r="2" fill="#183D32" />
+      
+        <circle cx="30" cy="20" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="30" cy="20" r="2" fill="#183D32" />
+      
+        <circle cx="60" cy="10" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="60" cy="10" r="2" fill="#183D32" />
+      
+        <circle cx="-40" cy="30" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-40" cy="30" r="2" fill="#183D32" />
+      
+        <circle cx="-10" cy="30" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="-10" cy="30" r="2" fill="#183D32" />
+      
+        <circle cx="20" cy="35" r="6" fill="#FFF" stroke="#183D32" stroke-width="1.5" />
+        <circle cx="20" cy="35" r="2" fill="#183D32" />
+      
+
+      <!-- Graceful Curved Neck & Head -->
+      <path d="M80,-20 C120,-60 130,-110 110,-140 C95,-135 85,-110 65,-60 Z" fill="#E88B43" stroke="#183D32" stroke-width="4" />
+      <ellipse cx="110" cy="-140" rx="18" ry="12" fill="#E88B43" stroke="#183D32" stroke-width="3" />
+      <circle cx="114" cy="-142" r="3.5" fill="#183D32" />
+      <!-- Magnificent Gond Branching Antlers -->
+      <path d="M100,-150 C80,-190 70,-230 40,-250 M85,-180 C50,-200 40,-210 20,-215 M95,-165 C120,-210 140,-240 160,-260 M120,-200 C150,-210 170,-220 180,-230" stroke="#183D32" stroke-width="5" fill="none" stroke-linecap="round" />
+      <!-- Slender Legs -->
+      <line x1="-50" y1="50" x2="-60" y2="150" stroke="#183D32" stroke-width="6" stroke-linecap="round" />
+      <line x1="-20" y1="55" x2="-25" y2="150" stroke="#183D32" stroke-width="6" stroke-linecap="round" />
+      <line x1="40" y1="55" x2="45" y2="150" stroke="#183D32" stroke-width="6" stroke-linecap="round" />
+      <line x1="70" y1="50" x2="75" y2="150" stroke="#183D32" stroke-width="6" stroke-linecap="round" />
+    </g>
+  </svg>

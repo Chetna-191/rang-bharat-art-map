@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Dramatic Deccan Blue Sky & Granite Hill Boulders -->
+  <linearGradient id="hampiSky" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#4B779E" />
+    <stop offset="50%" stop-color="#93B4CE" />
+    <stop offset="100%" stop-color="#E2A66C" />
+  </linearGradient>
+  <rect width="800" height="600" fill="url(#hampiSky)" />
+
+  <!-- Iconic Monolithic Stone Chariot (Vittala Temple) -->
+  <g transform="translate(400, 480)">
+    <!-- Granite Platform -->
+    <rect x="-240" y="-60" width="480" height="60" fill="#736758" stroke="#3D352B" stroke-width="3" />
+
+    <!-- Giant Carved Granite Wheels -->
+    <g transform="translate(-140, -40)">
+      <circle cx="0" cy="0" r="50" fill="#877A6A" stroke="#3D352B" stroke-width="4" />
+      <circle cx="0" cy="0" r="18" fill="#544B3F" stroke="#3D352B" stroke-width="2" />
+      
+        <line x1="0" y1="0" x2="50" y2="0" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="35.35533905932738" y2="35.35533905932737" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="3.061616997868383e-15" y2="50" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-35.35533905932737" y2="35.35533905932738" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-50" y2="6.123233995736766e-15" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-35.355339059327385" y2="-35.35533905932737" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-9.184850993605149e-15" y2="-50" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="35.35533905932737" y2="-35.355339059327385" stroke="#3D352B" stroke-width="3" />
+      
+    </g>
+    <g transform="translate(140, -40)">
+      <circle cx="0" cy="0" r="50" fill="#877A6A" stroke="#3D352B" stroke-width="4" />
+      <circle cx="0" cy="0" r="18" fill="#544B3F" stroke="#3D352B" stroke-width="2" />
+      
+        <line x1="0" y1="0" x2="50" y2="0" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="35.35533905932738" y2="35.35533905932737" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="3.061616997868383e-15" y2="50" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-35.35533905932737" y2="35.35533905932738" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-50" y2="6.123233995736766e-15" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-35.355339059327385" y2="-35.35533905932737" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="-9.184850993605149e-15" y2="-50" stroke="#3D352B" stroke-width="3" />
+      
+        <line x1="0" y1="0" x2="35.35533905932737" y2="-35.355339059327385" stroke="#3D352B" stroke-width="3" />
+      
+    </g>
+
+    <!-- Main Shrine Body & Carved Mandapa Pillars -->
+    <rect x="-130" y="-220" width="260" height="160" fill="#877A6A" stroke="#3D352B" stroke-width="3" />
+    <polygon points="0,-330 -140,-220 140,-220" fill="#6B6052" stroke="#3D352B" stroke-width="3" />
+    <circle cx="0" cy="-340" r="12" fill="#D6A540" />
+  </g>
+</svg>

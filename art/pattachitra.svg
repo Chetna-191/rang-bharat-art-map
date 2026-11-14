@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="pattaBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#A5261E" />
+      <stop offset="100%" stop-color="#5E0F0B" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#pattaBg)" />
+
+  <!-- Intricate Red & Gold Temple Floral Border -->
+  <rect x="20" y="20" width="760" height="560" fill="none" stroke="#DCA233" stroke-width="8" />
+  <rect x="36" y="36" width="728" height="528" fill="none" stroke="#FAF5EB" stroke-width="3" />
+  <rect x="46" y="46" width="708" height="508" fill="none" stroke="#DCA233" stroke-width="2" stroke-dasharray="10,6" />
+
+  <!-- Triad of Puri: Jagannath (Center/Right), Balabhadra (Left), Subhadra (Center) -->
+  
+  <!-- Lord Balabhadra (White Face) -->
+  <g transform="translate(220, 290)">
+    <!-- Ornate Crown (Kirita Mukuta) -->
+    <path d="M-60,-80 L0,-160 L60,-80 Z" fill="#DCA233" stroke="#111" stroke-width="3" />
+    <circle cx="0" cy="-160" r="10" fill="#A5261E" stroke="#DCA233" stroke-width="2" />
+    <!-- White Face -->
+    <ellipse cx="0" cy="0" rx="70" ry="75" fill="#FAF5EB" stroke="#111" stroke-width="5" />
+    <!-- Iconic Large Round Eyes -->
+    <ellipse cx="-28" cy="-5" rx="22" ry="22" fill="#A5261E" stroke="#111" stroke-width="2" />
+    <ellipse cx="-28" cy="-5" rx="18" ry="18" fill="#FAF5EB" />
+    <circle cx="-28" cy="-5" r="9" fill="#111" />
+    <ellipse cx="28" cy="-5" rx="22" ry="22" fill="#A5261E" stroke="#111" stroke-width="2" />
+    <ellipse cx="28" cy="-5" rx="18" ry="18" fill="#FAF5EB" />
+    <circle cx="28" cy="-5" r="9" fill="#111" />
+    <!-- Sacred Tilak & Mouth -->
+    <path d="M-15,-40 C-10,-55 10,-55 15,-40 C0,-45 -10,-45 -15,-40" fill="#A5261E" />
+    <path d="M-30,42 Q0,65 30,42 Q0,48 -30,42 Z" fill="#A5261E" stroke="#111" stroke-width="2" />
+  </g>
+
+  <!-- Goddess Subhadra (Yellow Face) -->
+  <g transform="translate(400, 310)">
+    <path d="M-40,-70 L0,-140 L40,-70 Z" fill="#DCA233" stroke="#111" stroke-width="2.5" />
+    <circle cx="0" cy="-140" r="8" fill="#A5261E" />
+    <ellipse cx="0" cy="0" rx="45" ry="58" fill="#F4B938" stroke="#111" stroke-width="4" />
+    <!-- Oval Lotus Eyes -->
+    <ellipse cx="-16" cy="-4" rx="12" ry="15" fill="#FAF5EB" stroke="#111" stroke-width="2" />
+    <circle cx="-16" cy="-4" r="6" fill="#111" />
+    <ellipse cx="16" cy="-4" rx="12" ry="15" fill="#FAF5EB" stroke="#111" stroke-width="2" />
+    <circle cx="16" cy="-4" r="6" fill="#111" />
+    <!-- Smile -->
+    <path d="M-16,32 Q0,45 16,32" stroke="#A5261E" stroke-width="3" fill="none" />
+  </g>
+
+  <!-- Lord Jagannath (Black Face with Fiery Red Lips & Round Eyes) -->
+  <g transform="translate(580, 290)">
+    <!-- Ornate Golden Mukuta -->
+    <path d="M-65,-80 L0,-165 L65,-80 Z" fill="#DCA233" stroke="#111" stroke-width="3" />
+    <circle cx="0" cy="-165" r="12" fill="#A5261E" stroke="#DCA233" stroke-width="2" />
+    <!-- Deep Black Face -->
+    <ellipse cx="0" cy="0" rx="75" ry="78" fill="#1C1818" stroke="#FAF5EB" stroke-width="4" />
+    <!-- Huge Sacred Round Eyes -->
+    <circle cx="-30" cy="-5" r="26" fill="#A5261E" />
+    <circle cx="-30" cy="-5" r="22" fill="#FAF5EB" />
+    <circle cx="-30" cy="-5" r="11" fill="#111" />
+    <circle cx="30" cy="-5" r="26" fill="#A5261E" />
+    <circle cx="30" cy="-5" r="22" fill="#FAF5EB" />
+    <circle cx="30" cy="-5" r="11" fill="#111" />
+    <!-- Distinctive Sacred Tilak -->
+    <path d="M-18,-42 C-10,-60 10,-60 18,-42 C0,-48 -10,-48 -18,-42" fill="#FAF5EB" />
+    <circle cx="0" cy="-35" r="6" fill="#A5261E" />
+    <!-- Big Crescent Red Smile -->
+    <path d="M-36,44 Q0,74 36,44 Q0,50 -36,44 Z" fill="#A5261E" stroke="#FAF5EB" stroke-width="2.5" />
+  </g>
+
+  <!-- Title Ribbon -->
+  <g transform="translate(400, 520)">
+    <rect x="-160" y="-20" width="320" height="40" rx="6" fill="#241410" stroke="#DCA233" stroke-width="2" />
+    <text x="0" y="6" font-family="'Playfair Display', serif" font-size="18" font-weight="bold" fill="#DCA233" text-anchor="middle">
+      Puri Jagannath Pattachitra
+    </text>
+  </g>
+</svg>

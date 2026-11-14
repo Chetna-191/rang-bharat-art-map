@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bengalWash" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2DEB8" />
+      <stop offset="50%" stop-color="#E2B77B" />
+      <stop offset="100%" stop-color="#9C6B38" />
+    </linearGradient>
+  </defs>
+  <!-- Translucent Japanese-Indian Water Wash Background -->
+  <rect width="800" height="600" fill="url(#bengalWash)" />
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#523214" stroke-width="4" opacity="0.7" />
+
+  <!-- Spiritual Icon: Bharat Mata / Lyrical Indian Mother -->
+  <g transform="translate(400, 310)">
+    <!-- Soft Diffused Halo -->
+    <circle cx="0" cy="-90" r="75" fill="#FFF6DF" opacity="0.45" />
+
+    <!-- Serene Saffron-Clad Figure -->
+    <!-- Head in Calm Profile/Contemplation -->
+    <ellipse cx="0" cy="-80" rx="34" ry="42" fill="#E8BD8D" stroke="#523214" stroke-width="2" />
+    <ellipse cx="8" cy="-84" rx="8" ry="4" fill="#523214" />
+    <path d="M-5,-62 Q0,-58 8,-62" stroke="#A3352B" stroke-width="2" fill="none" />
+    
+    <!-- Flowing Saffron/Gerua Ascetic Robes -->
+    <path d="M-60,-20 C-80,60 -100,160 -110,210 L110,210 C100,160 80,60 60,-20 Z" fill="#D6752C" stroke="#7A390F" stroke-width="3" opacity="0.9" />
+
+    <!-- Four Sacred Symbolic Hands -->
+    <!-- Hand 1: Sacred Vedas/Scriptures -->
+    <g transform="translate(-80, 20)">
+      <rect x="-15" y="-10" width="30" height="20" rx="3" fill="#FAF5EB" stroke="#523214" stroke-width="2" />
+      <line x1="-10" y1="0" x2="10" y2="0" stroke="#A3352B" stroke-width="1.5" />
+    </g>
+    <!-- Hand 2: Paddy / Sheaf of Corn (Annada) -->
+    <g transform="translate(-70, 90)">
+      <path d="M0,0 Q-20,-40 -40,-30 M0,0 Q-30,-20 -50,-10" stroke="#DFB83F" stroke-width="3" fill="none" />
+    </g>
+    <!-- Hand 3: White Khadi Cloth -->
+    <g transform="translate(80, 20)">
+      <path d="M-10,-5 Q10,15 25,-5 L30,20 L-5,20 Z" fill="#FFFFFF" stroke="#523214" stroke-width="1.5" />
+    </g>
+    <!-- Hand 4: Sacred Japa Mala Beads -->
+    <g transform="translate(70, 90)">
+      <circle cx="0" cy="0" r="14" fill="none" stroke="#7A390F" stroke-width="3" stroke-dasharray="4,3" />
+    </g>
+
+    <!-- Floating Water Lilies at Feet -->
+    <path d="M-40,210 Q0,195 40,210" stroke="#523214" stroke-width="3" fill="none" />
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#FAF1D9" />
+  <!-- Royal Rajput Golden Floral Border (Hasyia) -->
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#B83A2A" stroke-width="10" />
+  <rect x="40" y="40" width="720" height="520" fill="none" stroke="#DCA532" stroke-width="4" />
+
+  <!-- Ornate Rajput Palace Marble Pavilion Arch -->
+  <g transform="translate(400, 120)">
+    <path d="M-220,380 L-220,120 Q-110,40 0,70 Q110,40 220,120 L220,380" fill="none" stroke="#DCA532" stroke-width="12" />
+    <circle cx="0" cy="50" r="18" fill="#B83A2A" stroke="#DCA532" stroke-width="3" />
+  </g>
+
+  <!-- Krishna & Radha in Royal Court Garden -->
+  <g transform="translate(400, 340)">
+    <circle cx="-40" cy="-60" r="28" fill="#7EA4BD" stroke="#1E384D" stroke-width="2" />
+    <path d="M-55,-90 L-40,-120 L-25,-90 Z" fill="#DCA532" stroke="#B83A2A" stroke-width="2" />
+    <!-- Radha -->
+    <circle cx="40" cy="-55" r="26" fill="#F7DCBE" stroke="#8A4A28" stroke-width="2" />
+    <path d="M25,-80 C50,-95 70,-60 65,30 L15,30 Z" fill="#B83A2A" opacity="0.85" />
+    <!-- Jali Screen Window at rear -->
+    <rect x="-120" y="-140" width="60" height="90" fill="none" stroke="#DCA532" stroke-width="2" stroke-dasharray="4,4" />
+    <rect x="60" y="-140" width="60" height="90" fill="none" stroke="#DCA532" stroke-width="2" stroke-dasharray="4,4" />
+  </g>
+</svg>

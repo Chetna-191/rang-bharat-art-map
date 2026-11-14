@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pichwaiBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E0D36"/>
+      <stop offset="50%" stop-color="#2D114B"/>
+      <stop offset="100%" stop-color="#4B2E83"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0D77B"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#pichwaiBg)"/>
+  <!-- Ornate Floral Border -->
+  <rect x="18" y="18" width="564" height="414" fill="none" stroke="url(#goldGrad)" stroke-width="3" stroke-dasharray="10,6"/>
+  <rect x="28" y="28" width="544" height="394" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+  <!-- Central Shrinathji Kadamba Tree & Lotus Pond -->
+  <circle cx="300" cy="210" r="130" fill="none" stroke="url(#goldGrad)" stroke-width="2"/>
+  <path d="M300,90 Q340,150 300,210 Q260,150 300,90" fill="#D4AF37" opacity="0.85"/>
+  <circle cx="300" cy="210" r="60" fill="#240E40" stroke="url(#goldGrad)" stroke-width="3"/>
+  <!-- Shrinathji Divine Eyes & Tilak -->
+  <ellipse cx="282" cy="205" rx="12" ry="6" fill="#FFF2C6"/>
+  <circle cx="282" cy="205" r="4" fill="#1E0D36"/>
+  <ellipse cx="318" cy="205" rx="12" ry="6" fill="#FFF2C6"/>
+  <circle cx="318" cy="205" r="4" fill="#1E0D36"/>
+  <path d="M300,180 L300,225 M292,192 Q300,202 308,192" fill="none" stroke="#E67E22" stroke-width="2.5"/>
+  <!-- Sacred Cows & Blooming Lotuses -->
+  <g fill="url(#goldGrad)" opacity="0.9">
+    <ellipse cx="140" cy="320" rx="35" ry="20"/>
+    <circle cx="115" cy="310" r="14"/>
+    <ellipse cx="460" cy="320" rx="35" ry="20"/>
+    <circle cx="485" cy="310" r="14"/>
+    <path d="M140,320 L135,350 M155,320 L155,350 M445,320 L445,350 M465,320 L465,350" stroke="#D4AF37" stroke-width="3"/>
+    <!-- Lotus Blossoms -->
+    <circle cx="300" cy="360" r="18" fill="#F0D77B"/>
+    <path d="M280,360 Q300,335 320,360 Q300,385 280,360" fill="#D4AF37"/>
+  </g>
+  <text x="300" y="420" font-family="'Playfair Display', Georgia, serif" font-size="16" font-weight="bold" fill="#F0D77B" text-anchor="middle" letter-spacing="3">NATHDWARA PICHWAI TRADITION</text>
+</svg>

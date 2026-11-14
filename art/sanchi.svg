@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#E8D8BA" />
+  <!-- The Great Stupa Dome with Torana Gateway -->
+  <g transform="translate(400, 500)">
+    <!-- Monumental Hemispherical Dome (Anda) -->
+    <path d="M-280,0 C-280,-240 280,-240 280,0 Z" fill="#C2AB8A" stroke="#7A6546" stroke-width="4" />
+    <!-- Square Railing (Harmika) & Three-Tiered Umbrella (Chhatra) -->
+    <rect x="-40" y="-270" width="80" height="30" fill="#7A6546" stroke="#4A3B25" stroke-width="2" />
+    <line x1="0" y1="-270" x2="0" y2="-340" stroke="#4A3B25" stroke-width="4" />
+    <ellipse cx="0" cy="-330" rx="30" ry="7" fill="#7A6546" />
+    <ellipse cx="0" cy="-315" rx="22" ry="5" fill="#7A6546" />
+    <ellipse cx="0" cy="-300" rx="14" ry="4" fill="#7A6546" />
+
+    <!-- Carved Stone Torana (Gateway) in Foreground -->
+    <g transform="translate(0, 0)">
+      <!-- Twin Pillars -->
+      <rect x="-140" y="-320" width="24" height="320" fill="#D6C09C" stroke="#4A3B25" stroke-width="3" />
+      <rect x="116" y="-320" width="24" height="320" fill="#D6C09C" stroke="#4A3B25" stroke-width="3" />
+      <!-- Three Curved Architraves with Spiral Terminals -->
+      
+        <rect x="-180" y="-300" width="360" height="24" rx="12" fill="#D6C09C" stroke="#4A3B25" stroke-width="3" />
+        <circle cx="-170" cy="-288" r="8" fill="#4A3B25" />
+        <circle cx="170" cy="-288" r="8" fill="#4A3B25" />
+      
+        <rect x="-180" y="-250" width="360" height="24" rx="12" fill="#D6C09C" stroke="#4A3B25" stroke-width="3" />
+        <circle cx="-170" cy="-238" r="8" fill="#4A3B25" />
+        <circle cx="170" cy="-238" r="8" fill="#4A3B25" />
+      
+        <rect x="-180" y="-200" width="360" height="24" rx="12" fill="#D6C09C" stroke="#4A3B25" stroke-width="3" />
+        <circle cx="-170" cy="-188" r="8" fill="#4A3B25" />
+        <circle cx="170" cy="-188" r="8" fill="#4A3B25" />
+      
+    </g>
+  </g>
+</svg>

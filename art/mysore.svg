@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="mysoreBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7EEDC" />
+      <stop offset="100%" stop-color="#E2CCA6" />
+    </linearGradient>
+    <linearGradient id="goldTrim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5D061" />
+      <stop offset="100%" stop-color="#C29424" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#mysoreBg)" />
+  <!-- Delicate Mysore Palace Cusped Arch -->
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#684A22" stroke-width="4" />
+  <path d="M60,550 L60,200 Q200,60 400,60 Q600,60 740,200 L740,550" fill="none" stroke="url(#goldTrim)" stroke-width="10" />
+
+  <!-- Goddess Saraswati -->
+  <g transform="translate(400, 310)">
+    <!-- White Lotus Seat (Padmasana) -->
+    <g transform="translate(0, 170)">
+      <path d="M0,0 C-70,-30 -140,20 -180,0 C-120,40 -60,40 0,30 C60,40 120,40 180,0 C140,20 70,-30 0,0" fill="#FFFFFF" stroke="#D6A53A" stroke-width="3" />
+      <path d="M0,0 C-40,-50 -80,-10 -110,-30 C-70,-10 -40,10 0,15 C40,10 70,-10 110,-30 C80,-10 40,-50 0,0" fill="#FFF5E5" stroke="#D6A53A" stroke-width="2" />
+    </g>
+
+    <!-- Glowing Halo -->
+    <circle cx="0" cy="-90" r="60" fill="none" stroke="url(#goldTrim)" stroke-width="4" stroke-dasharray="6,4" />
+
+    <!-- Royal Face & Crown -->
+    <ellipse cx="0" cy="-80" rx="36" ry="42" fill="#FCEAD0" stroke="#7A4D1A" stroke-width="2.5" />
+    <!-- Ornate Mysore Gold Mukuta -->
+    <path d="M-28,-115 L0,-175 L28,-115 Z" fill="url(#goldTrim)" stroke="#5E380D" stroke-width="2" />
+    <circle cx="0" cy="-175" r="7" fill="#A82020" />
+    <!-- Serene Eyes & Sacred Tilak -->
+    <ellipse cx="-14" cy="-82" rx="7" ry="4" fill="#FFF" stroke="#333" stroke-width="1.2" />
+    <circle cx="-13" cy="-82" r="2.5" fill="#222" />
+    <ellipse cx="14" cy="-82" rx="7" ry="4" fill="#FFF" stroke="#333" stroke-width="1.2" />
+    <circle cx="15" cy="-82" r="2.5" fill="#222" />
+    <circle cx="0" cy="-95" r="3" fill="#A82020" />
+    <path d="M-8,-62 Q0,-55 8,-62" stroke="#A82020" stroke-width="2" fill="none" />
+
+    <!-- White & Gold Silk Saree Drapery -->
+    <path d="M-45,-20 C-60,70 -80,140 -90,170 L90,170 C80,140 60,70 45,-20 Z" fill="#FFFDF8" stroke="#D6A53A" stroke-width="3" />
+    <path d="M-20,-10 L-70,165 M20,-10 L70,165" stroke="url(#goldTrim)" stroke-width="5" />
+
+    <!-- The Classical Musical Veena -->
+    <g transform="rotate(-30) translate(-30, 20)">
+      <ellipse cx="-90" cy="0" rx="35" ry="32" fill="#824718" stroke="#3D1D05" stroke-width="3" />
+      <rect x="-90" y="-8" width="220" height="16" rx="6" fill="#A86128" stroke="#3D1D05" stroke-width="2.5" />
+      <circle cx="130" cy="0" r="18" fill="url(#goldTrim)" stroke="#3D1D05" stroke-width="2" />
+      <line x1="-80" y1="-3" x2="120" y2="-3" stroke="#F5D061" stroke-width="1.5" />
+      <line x1="-80" y1="3" x2="120" y2="3" stroke="#F5D061" stroke-width="1.5" />
+    </g>
+
+    <!-- Sacred Swan (Hamsa) at left -->
+    <g transform="translate(-180, 110) scale(0.7)">
+      <path d="M0,0 C-30,-20 -40,-60 -10,-60 C10,-60 20,-30 40,-20 C60,-10 70,20 40,30 C10,40 -10,20 0,0 Z" fill="#FFFFFF" stroke="#8A6529" stroke-width="2.5" />
+      <polygon points="-10,-60 -35,-55 -15,-50" fill="#D6A53A" stroke="#8A6529" stroke-width="1.5" />
+      <circle cx="-10" cy="-55" r="2" fill="#111" />
+    </g>
+  </g>
+</svg>
