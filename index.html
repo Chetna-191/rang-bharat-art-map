@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rang Bharat: An Interactive Art Map of India</title>
+  <meta name="description" content="A journey through the colours of Indian art. An interactive art map exploring the geographical spread, histories, artists, and techniques of India's cultural heritage." />
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%234B2E83'/><circle cx='50' cy='50' r='35' fill='%239B7EDE'/><circle cx='50' cy='50' r='20' fill='%23D4AF37'/><circle cx='50' cy='50' r='6' fill='%23F0D77B'/></svg>" />
+
+  <!-- Google Fonts: Playfair Display & Poppins -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,600&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Leaflet.js CSS (Free, OpenStreetMap based) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="bg-pattern-jaali">
+
+  <!-- =========================================================================
+       1. Global Sticky Navigation Bar
+       ========================================================================= -->
+  <header class="navbar" id="mainNavbar">
+    <div class="container navbar-content">
+      
+      <!-- Brand Logo -->
+      <a href="#hero" class="brand-logo" aria-label="Rang Bharat Home">
+        <div class="brand-icon">❂</div>
+        <div class="brand-text">
+          <h1>Rang Bharat</h1>
+          <p>Indian Art History Map</p>
+        </div>
+      </a>
+
+      <!-- Desktop Links -->
+      <nav class="nav-links" aria-label="Main Navigation">
+        <a href="#hero" class="nav-link">Home</a>
+        <a href="#map-section" class="nav-link">Interactive Map</a>
+        <a href="#gallery-section" class="nav-link">Art Styles</a>
+        <a href="#timeline-section" class="nav-link">Era Timeline</a>
+        <a href="#facts-section" class="nav-link">Did You Know?</a>
+      </nav>
+
+      <!-- CTA Explorer Button -->
+      <a href="#map-section" class="nav-cta-btn">
+        <span>🗺️</span>
+        <span>Explore Map</span>
+      </a>
+
+      <!-- Mobile Menu Toggle Button -->
+      <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Toggle navigation menu">
+        ☰
+      </button>
+
+    </div>
+  </header>
+
+  <main>
+    <!-- =========================================================================
+         2. Hero Section
+         ========================================================================= -->
+    <section class="hero-section" id="hero">
+      <div class="container hero-content">
+        
+        <div class="hero-badge">
+          <span class="badge-star">✦</span>
+          <span>College Digital Humanities Project • Interactive Art Map</span>
+          <span class="badge-star">✦</span>
+        </div>
+
+        <h2 class="hero-title">
+          Rang Bharat: <br />
+          <span class="gold-highlight">An Interactive Art Map of India</span>
+        </h2>
+
+        <p class="hero-tagline">
+          “A journey through the colours of Indian art”
+        </p>
+
+        <div class="gold-divider">
+          <span>❦</span>
+        </div>
+
+        <p class="hero-description">
+          Explore the geographical spread, dynastic patrons, sacred techniques, and hereditary artist lineages that shaped five millennia of Indian art history—from prehistoric rock shelters to imperial court miniatures.
+        </p>
+
+        <div class="hero-actions">
+          <a href="#map-section" class="btn-primary-gold">
+            <span>Explore the Map</span>
+            <span>↓</span>
+          </a>
+          <a href="#gallery-section" class="btn-secondary-glass">
+            <span>Browse Art Traditions</span>
+          </a>
+        </div>
+
+        <!-- Quick Facts / Highlights -->
+        <div class="hero-stats">
+          <div class="hero-stat-item">
+            <h3>18+</h3>
+            <p>Sacred Art Destinations</p>
+          </div>
+          <div class="hero-stat-item">
+            <h3>5</h3>
+            <p>Historical Art Eras</p>
+          </div>
+          <div class="hero-stat-item">
+            <h3>100%</h3>
+            <p>Real Authentic Imagery</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- =========================================================================
+         3. Interactive Map of India (Main Feature)
+         ========================================================================= -->
+    <section class="map-section" id="map-section">
+      <div class="container">
+        
+        <!-- Section Header -->
+        <div class="section-header">
+          <div class="section-pill">
+            <span>🧭</span>
+            <span>Cartographic Exploration</span>
+          </div>
+          <h2 class="section-title">Geographic Spread of Indian Art</h2>
+          <p class="section-subtitle">
+            Click any pulsating gold marker to inspect its authentic artwork photos, historical origin, royal patrons, and natural materials.
+          </p>
+          <div class="gold-divider">
+            <span>❂</span>
+          </div>
+        </div>
+
+        <!-- Filter Bar & Search Box -->
+        <div class="filter-search-container">
+          
+          <!-- Instant Search Box -->
+          <div class="search-box-wrapper">
+            <span class="search-icon">🔍</span>
+            <input 
+              type="text" 
+              class="search-input" 
+              id="mapSearchInput" 
+              placeholder="Search by location (e.g. Bhimbetka), state (e.g. Rajasthan), style (e.g. Warli), or artist..." 
+              aria-label="Search art locations and traditions"
+            />
+            <button class="search-clear-btn" id="searchClearBtn" aria-label="Clear search input">✕</button>
+          </div>
+
+          <!-- Category Filter Pills -->
+          <div class="category-filter-pills" id="categoryFilterPills" role="tablist" aria-label="Art categories">
+            <!-- Populated dynamically by app.js -->
+          </div>
+
+        </div>
+
+        <!-- Map & Slide-out Side Panel Wrapper -->
+        <div class="map-interactive-wrapper">
+          
+          <!-- Reset Map View Button -->
+          <button class="map-reset-btn" id="resetMapBtn" title="Reset map view to center of India">
+            <span>↺</span>
+            <span>Reset View</span>
+          </button>
+
+          <!-- The Leaflet Map Canvas -->
+          <div id="map" role="application" aria-label="Interactive Leaflet Map of India"></div>
+
+          <!-- Interactive Map Legend -->
+          <div class="map-legend" id="mapLegend">
+            <h4>Cultural Categories</h4>
+            <div class="legend-item">
+              <span class="legend-color-dot" style="background: #B8860B;"></span>
+              <span>Cave & Ancient</span>
+            </div>
+            <div class="legend-item">
+              <span class="legend-color-dot" style="background: #D4AF37;"></span>
+              <span>Classical & Court</span>
+            </div>
+            <div class="legend-item">
+              <span class="legend-color-dot" style="background: #9B7EDE;"></span>
+              <span>Folk & Tribal</span>
+            </div>
+            <div class="legend-item">
+              <span class="legend-color-dot" style="background: #4B2E83;"></span>
+              <span>Textile Art</span>
+            </div>
+            <div class="legend-item">
+              <span class="legend-color-dot" style="background: #7C3AED;"></span>
+              <span>Modern & Revival</span>
+            </div>
+          </div>
+
+          <!-- Detail Side Panel (Desktop) / Bottom Sheet (Mobile) -->
+          <aside class="detail-side-panel" id="detailSidePanel" aria-label="Art Location Details">
+            
+            <div class="panel-header">
+              <div class="panel-title-group">
+                <h3 id="panelPlaceName">Location Name</h3>
+                <p id="panelStateName">State • Category</p>
+              </div>
+              <button class="panel-close-btn" id="panelCloseBtn" aria-label="Close detail panel">✕</button>
+            </div>
+
+            <div class="panel-body-scroll" id="panelContent">
+              <!-- Dynamically populated when a marker or gallery card is selected -->
+            </div>
+
+          </aside>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- =========================================================================
+         4. Art Styles Gallery
+         ========================================================================= -->
+    <section class="gallery-section" id="gallery-section">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-pill">
+            <span>🎨</span>
+            <span>Visual Anthology</span>
+          </div>
+          <h2 class="section-title">Art Traditions Across India</h2>
+          <p class="section-subtitle">
+            Discover the extraordinary diversity of regional painting traditions, from ancient rock carvings to courtly miniatures. Click any card to locate it on the map.
+          </p>
+          <div class="gold-divider">
+            <span>❧</span>
+          </div>
+        </div>
+
+        <!-- Gallery Cards Grid -->
+        <div class="gallery-grid" id="galleryGrid">
+          <!-- Populated dynamically by app.js -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- =========================================================================
+         5. Timeline Strip (Prehistoric to Modern)
+         ========================================================================= -->
+    <section class="timeline-section" id="timeline-section">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-pill">
+            <span>⏳</span>
+            <span>Chronological Evolution</span>
+          </div>
+          <h2 class="section-title">Five Millennia of Indian Art History</h2>
+          <p class="section-subtitle">
+            Trace how dynastic patronage, trade routes, and ritual practices transformed India's artistic landscape across successive eras.
+          </p>
+          <div class="gold-divider">
+            <span>❦</span>
+          </div>
+        </div>
+
+        <!-- Horizontal Scrollable Timeline Strip -->
+        <div class="timeline-strip-scroll" id="timelineScroll">
+          <!-- Populated dynamically by app.js -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- =========================================================================
+         6. Did You Know? Facts Section
+         ========================================================================= -->
+    <section class="facts-section" id="facts-section">
+      <div class="container">
+        
+        <div class="section-header">
+          <div class="section-pill">
+            <span>✨</span>
+            <span>Fascinating Art Trivia</span>
+          </div>
+          <h2 class="section-title">Did You Know?</h2>
+          <p class="section-subtitle">
+            Curious historical secrets and extraordinary techniques behind India's timeless masterworks.
+          </p>
+          <div class="gold-divider">
+            <span>❂</span>
+          </div>
+        </div>
+
+        <!-- Facts Grid -->
+        <div class="facts-grid" id="factsGrid">
+          <!-- Populated dynamically by app.js -->
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <!-- =========================================================================
+       7. Site Footer with Academic Credits & Image Attributions
+       ========================================================================= -->
+  <footer class="site-footer">
+    <div class="container">
+      
+      <div class="footer-grid">
+        
+        <!-- About & Team Placeholder -->
+        <div class="footer-col">
+          <h4>Rang Bharat Project</h4>
+          <p>
+            An interactive educational digital humanities web application dedicated to exploring the geographical spread, histories, materials, and living master artists of Indian art traditions.
+          </p>
+          <p style="margin-top: 1rem; font-size: 0.8rem; color: #F0D77B;">
+            <strong>College Assignment:</strong> Interactive Art Map (CO1)<br />
+            <strong>Course:</strong> Indian Art History & Digital Humanities<br />
+            <strong>Created by:</strong> [Student / Team Name Placeholder]
+          </p>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="footer-col">
+          <h4>Navigation</h4>
+          <ul style="list-style: none; font-size: 0.85rem; line-height: 2;">
+            <li><a href="#hero">› Home</a></li>
+            <li><a href="#map-section">› Interactive Map</a></li>
+            <li><a href="#gallery-section">› Art Styles Gallery</a></li>
+            <li><a href="#timeline-section">› Timeline of Eras</a></li>
+            <li><a href="#facts-section">› Did You Know?</a></li>
+          </ul>
+        </div>
+
+        <!-- Image Credits & Licensing -->
+        <div class="footer-col">
+          <h4>Image Credits & Licenses</h4>
+          <p style="font-size: 0.8rem; margin-bottom: 0.75rem;">
+            All artwork photographs used in this project are authentic educational representations sourced under Creative Commons licenses and Public Domain designations:
+          </p>
+          <ul class="credits-list">
+            <li>• Photographs sourced via <a href="https://commons.wikimedia.org" target="_blank" rel="noreferrer">Wikimedia Commons</a></li>
+            <li>• Cartography tiles by <a href="https://carto.com" target="_blank" rel="noreferrer">CartoDB Positron</a> &amp; OpenStreetMap</li>
+            <li>• Map library powered by <a href="https://leafletjs.com" target="_blank" rel="noreferrer">Leaflet.js</a></li>
+            <li>• Vector illustrations by Rang Bharat Digital Humanities Archive</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <p>
+          © 2026 Rang Bharat: An Interactive Art Map of India. Built with plain HTML, CSS, and JavaScript. All rights and creative credits belong to the respective hereditary artisan communities of India.
+        </p>
+      </div>
+
+    </div>
+  </footer>
+
+  <!-- Floating Back to Top Button -->
+  <button class="back-to-top-btn" id="backToTopBtn" aria-label="Back to top">
+    ↑
+  </button>
+
+  <!-- =========================================================================
+       8. Scripts: Leaflet, Data, and Application Logic
+       ========================================================================= -->
+  <!-- Leaflet.js library -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  
+  <!-- Centralized Data File (Easy to add/edit locations) -->
+  <script src="data.js"></script>
+
+  <!-- Main Application Logic -->
+  <script src="app.js"></script>
+
+</body>
+</html>
