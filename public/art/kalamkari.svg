@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="kalamBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2E8D3" />
+      <stop offset="100%" stop-color="#E5D6BB" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#kalamBg)" />
+
+  <!-- Botanical Border -->
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#2B1E16" stroke-width="5" />
+  <rect x="35" y="35" width="730" height="530" fill="none" stroke="#8A2424" stroke-width="3" />
+
+  <!-- The Sacred Tree of Life (Kalpavriksha) -->
+  <g transform="translate(400, 520)">
+    <!-- Mighty Gnarled Trunk with Natural Iron-Black Outlines -->
+    <path d="M-25,0 C-40,-80 -15,-150 -35,-230 C-45,-270 -80,-300 -120,-320 M-10,-160 C10,-220 50,-260 90,-290 M-20,-240 C-10,-310 10,-370 20,-430 M25,0 C15,-70 30,-140 15,-200 C50,-240 120,-270 180,-290" stroke="#2B1E16" stroke-width="12" fill="none" stroke-linecap="round" />
+    
+    <!-- Rich Curving Foliage Branches in Madder Red & Indigo -->
+    <g fill="#8A2424" stroke="#2B1E16" stroke-width="2.5">
+      <!-- Flowering Leaves -->
+      <path d="M-120,-320 C-180,-320 -190,-380 -130,-370 C-100,-365 -90,-330 -120,-320 Z" />
+      <path d="M90,-290 C150,-290 170,-340 120,-360 C80,-350 70,-310 90,-290 Z" />
+      <path d="M20,-430 C-30,-480 30,-510 60,-460 C70,-430 40,-410 20,-430 Z" />
+      <path d="M-35,-230 C-90,-230 -110,-200 -70,-180 C-40,-170 -30,-210 -35,-230 Z" />
+      <path d="M15,-200 C70,-190 90,-160 50,-150 C20,-140 10,-180 15,-200 Z" />
+    </g>
+
+    <!-- Indigo Blue Lotus Blossoms -->
+    <g fill="#234B68" stroke="#2B1E16" stroke-width="2.5">
+      <path d="M-150,-350 C-170,-390 -130,-410 -110,-380 C-100,-360 -130,-340 -150,-350 Z" />
+      <path d="M140,-310 C180,-330 190,-290 160,-270 C140,-260 120,-290 140,-310 Z" />
+      <path d="M-10,-460 C-20,-500 20,-510 30,-480 C30,-450 0,-440 -10,-460 Z" />
+    </g>
+
+    <!-- Kalamkari Birds (Hamsa / Parrot) -->
+    <g transform="translate(-80, -280) scale(0.8)">
+      <path d="M0,0 C-30,-30 -20,-70 20,-60 C50,-50 60,-20 40,10 C10,40 -20,30 0,0 Z" fill="#DDA135" stroke="#2B1E16" stroke-width="3" />
+      <polygon points="40,-45 70,-50 45,-35" fill="#8A2424" stroke="#2B1E16" stroke-width="2" />
+      <circle cx="25" cy="-45" r="4" fill="#FFFFFF" stroke="#2B1E16" stroke-width="1.5" />
+      <circle cx="27" cy="-45" r="1.5" fill="#2B1E16" />
+      <!-- Tail Plumes -->
+      <path d="M-20,10 C-60,30 -80,10 -100,40 C-70,50 -40,30 -10,20 Z" fill="#234B68" stroke="#2B1E16" stroke-width="2.5" />
+    </g>
+
+    <g transform="translate(100, -240) scale(-0.7, 0.7)">
+      <path d="M0,0 C-30,-30 -20,-70 20,-60 C50,-50 60,-20 40,10 C10,40 -20,30 0,0 Z" fill="#DDA135" stroke="#2B1E16" stroke-width="3" />
+      <polygon points="40,-45 70,-50 45,-35" fill="#8A2424" stroke="#2B1E16" stroke-width="2" />
+      <circle cx="25" cy="-45" r="4" fill="#FFFFFF" stroke="#2B1E16" stroke-width="1.5" />
+      <circle cx="27" cy="-45" r="1.5" fill="#2B1E16" />
+      <path d="M-20,10 C-60,30 -80,10 -100,40 C-70,50 -40,30 -10,20 Z" fill="#234B68" stroke="#2B1E16" stroke-width="2.5" />
+    </g>
+
+    <!-- Deer at Tree Base -->
+    <g transform="translate(-160, -40) scale(0.9)">
+      <path d="M0,0 C20,-20 60,-20 80,0 L70,40 L60,40 L65,10 L15,10 L10,40 L0,40 Z" fill="#DDA135" stroke="#2B1E16" stroke-width="2.5" />
+      <path d="M0,0 C-10,-20 -5,-40 10,-45 C20,-45 25,-30 15,-15 Z" fill="#DDA135" stroke="#2B1E16" stroke-width="2.5" />
+      <!-- Antlers -->
+      <path d="M8,-45 Q15,-65 25,-60 M12,-52 Q5,-60 2,-55" stroke="#2B1E16" stroke-width="2" fill="none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="ajantaWall" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#9E764E" />
+      <stop offset="60%" stop-color="#734F2C" />
+      <stop offset="100%" stop-color="#482F18" />
+    </radialGradient>
+  </defs>
+  <!-- Weathered Ancient Cave Plaster Texture -->
+  <rect width="800" height="600" fill="url(#ajantaWall)" />
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#331E0D" stroke-width="6" opacity="0.8" />
+
+  <!-- Bodhisattva Padmapani (Cave 1) -->
+  <g transform="translate(420, 310)">
+    <!-- Graceful Sinuous Tribhanga Pose -->
+    <ellipse cx="0" cy="-90" rx="42" ry="52" fill="#C59B6A" stroke="#3D230F" stroke-width="2.5" />
+    <!-- Pearl & Gem Tiara (Crown) -->
+    <path d="M-40,-130 C-20,-170 20,-170 40,-130 Z" fill="#DFB548" stroke="#3D230F" stroke-width="2" />
+    <circle cx="0" cy="-160" r="7" fill="#256B9E" />
+    <!-- Half-Closed Meditative Compassionate Eyes -->
+    <path d="M-22,-86 Q-12,-80 -2,-86" stroke="#3D230F" stroke-width="3" fill="none" />
+    <path d="M12,-86 Q22,-80 32,-86" stroke="#3D230F" stroke-width="3" fill="none" />
+    <!-- Sacred Tilak & Serene Lip Curve -->
+    <path d="M-10,-55 Q5,-48 20,-55" stroke="#873522" stroke-width="2.5" fill="none" />
+
+    <!-- Slender Torso with Sacred Thread (Yajnopavita) -->
+    <path d="M-45,-40 C-30,40 -25,120 -20,200 L40,200 C30,120 40,40 50,-40 Z" fill="#BA8D59" stroke="#3D230F" stroke-width="2.5" />
+    <path d="M-30,-30 C0,40 10,120 -15,190" stroke="#DFB548" stroke-width="3" fill="none" />
+
+    <!-- The Famous Blue Lotus (Utpala) in Right Hand -->
+    <g transform="translate(90, 40)">
+      <path d="M0,0 Q20,-30 40,-80" stroke="#3A6332" stroke-width="4" fill="none" />
+      <!-- Radiant Blue Lotus Petals -->
+      <path d="M40,-80 C20,-120 60,-130 50,-90 Z" fill="#2A6B99" stroke="#1D3E54" stroke-width="1.5" />
+      <path d="M40,-80 C10,-100 20,-140 40,-110 Z" fill="#4B8EB8" stroke="#1D3E54" stroke-width="1.5" />
+      <path d="M40,-80 C50,-130 80,-110 55,-90 Z" fill="#3D7DAB" stroke="#1D3E54" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>

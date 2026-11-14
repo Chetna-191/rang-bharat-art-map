@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+    <rect width="800" height="600" fill="#F8F3E9" />
+    <rect x="25" y="25" width="750" height="550" fill="none" stroke="#222" stroke-width="4" />
+
+    <!-- Famous Kalighat Sacred Cat with Prawn (Bilai Prawn motif) / Babu Art -->
+    <g transform="translate(400, 320)">
+      <!-- Voluptuous Rounded Cat Body in Shaded Silver-Grey & Yellow Ochre -->
+      <path d="M-110,140 C-160,80 -140,-40 -40,-80 C40,-110 130,-40 120,80 C110,150 20,170 -110,140 Z" fill="#E2C99D" stroke="#111" stroke-width="6" />
+      
+      <!-- Kalighat Trademark Shading (Wash along outline) -->
+      <path d="M-30,-75 C30,-100 110,-40 100,60" stroke="#A88B5E" stroke-width="16" fill="none" opacity="0.6" stroke-linecap="round" />
+
+      <!-- Cat Face with Vaishnava Tilak -->
+      <ellipse cx="-40" cy="-60" rx="55" ry="45" fill="#E2C99D" stroke="#111" stroke-width="5" />
+      <polygon points="-75,-95 -90,-140 -50,-105" fill="#E2C99D" stroke="#111" stroke-width="4" />
+      <polygon points="-25,-105 10,-140 0,-95" fill="#E2C99D" stroke="#111" stroke-width="4" />
+
+      <!-- Broad Bold Sweeping Eye Lines -->
+      <ellipse cx="-55" cy="-65" rx="14" ry="9" fill="#FFF" stroke="#111" stroke-width="3" />
+      <circle cx="-53" cy="-65" r="4.5" fill="#111" />
+      <ellipse cx="-15" cy="-65" rx="14" ry="9" fill="#FFF" stroke="#111" stroke-width="3" />
+      <circle cx="-17" cy="-65" r="4.5" fill="#111" />
+      <!-- Yellow & Red Vaishnava Tilak on Forehead -->
+      <path d="M-38,-100 L-32,-75 L-26,-100 Z" fill="#DCA532" stroke="#A82B1C" stroke-width="1.5" />
+
+      <!-- Giant Freshwater Prawn (Chingri) Clutched in Jaws -->
+      <g transform="translate(20, -10) rotate(-20)">
+        <path d="M-60,0 C-20,-40 40,-40 90,0 C60,30 0,30 -60,0 Z" fill="#D94E34" stroke="#111" stroke-width="4" />
+        <path d="M90,0 Q140,-10 160,20 Q120,20 90,0" fill="#D94E34" stroke="#111" stroke-width="3" />
+        <circle cx="80" cy="-5" r="4" fill="#111" />
+        <!-- Prawn Whiskers -->
+        <path d="M90,-5 Q150,-40 180,-30" stroke="#111" stroke-width="2.5" fill="none" />
+        <path d="M90,5 Q150,40 180,30" stroke="#111" stroke-width="2.5" fill="none" />
+      </g>
+    </g>
+  </svg>

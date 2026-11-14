@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+    <rect width="800" height="600" fill="#FAF1D8" />
+    <!-- Starch-Treated Khadi Cloth Scroll Borders -->
+    <rect x="20" y="20" width="760" height="560" fill="none" stroke="#A82B1C" stroke-width="12" />
+    <rect x="36" y="36" width="728" height="528" fill="none" stroke="#DCA532" stroke-width="3" />
+
+    <!-- Legendary Hero Pabuji Mounted on Black Mare Kesar Kalmi -->
+    <g transform="translate(380, 310)">
+      <!-- Majestic Black Mare (Kesar Kalmi) -->
+      <ellipse cx="0" cy="40" rx="120" ry="60" fill="#1A1818" stroke="#A82B1C" stroke-width="3" />
+      <!-- Arched Neck & Head -->
+      <path d="M90,20 C140,-30 150,-80 130,-110 C100,-100 80,-60 60,-20 Z" fill="#1A1818" stroke="#A82B1C" stroke-width="3" />
+      <!-- Red Saffron Saddle & Bridle (Zin) -->
+      <rect x="-30" y="0" width="70" height="55" fill="#E84A28" stroke="#DCA532" stroke-width="3" />
+      <line x1="-70" y1="90" x2="-80" y2="180" stroke="#1A1818" stroke-width="8" stroke-linecap="round" />
+      <line x1="70" y1="90" x2="80" y2="180" stroke="#1A1818" stroke-width="8" stroke-linecap="round" />
+
+      <!-- Pabuji in Royal Rajput Turban and Angrakha holding Lance/Spear -->
+      <circle cx="-5" cy="-80" r="32" fill="#FCEAD2" stroke="#1A1818" stroke-width="2.5" />
+      <!-- Large Characteristic Phad Eye -->
+      <ellipse cx="8" cy="-84" rx="14" ry="8" fill="#FFF" stroke="#111" stroke-width="2" />
+      <circle cx="10" cy="-84" r="4" fill="#111" />
+      <!-- Royal Saffron Turban (Pagadi) with Plume -->
+      <path d="M-35,-95 C-20,-140 40,-135 35,-95 Z" fill="#E84A28" stroke="#111" stroke-width="3" />
+      <!-- Tall Royal Spear / Lance -->
+      <line x1="-80" y1="120" x2="70" y2="-210" stroke="#DCA532" stroke-width="6" stroke-linecap="round" />
+      <polygon points="70,-210 85,-240 60,-225" fill="#C49A53" stroke="#A82B1C" stroke-width="2" />
+    </g>
+
+    <!-- Narrative Architectural Pavilions on Sides -->
+    <g transform="translate(110, 180)">
+      <rect x="-50" y="-70" width="100" height="140" fill="#E84A28" stroke="#1A1818" stroke-width="3" />
+      <polygon points="0,-110 -60,-70 60,-70" fill="#DCA532" stroke="#1A1818" stroke-width="3" />
+    </g>
+    <g transform="translate(670, 180)">
+      <rect x="-50" y="-70" width="100" height="140" fill="#2E7D52" stroke="#1A1818" stroke-width="3" />
+      <polygon points="0,-110 -60,-70 60,-70" fill="#DCA532" stroke="#1A1818" stroke-width="3" />
+    </g>
+  </svg>

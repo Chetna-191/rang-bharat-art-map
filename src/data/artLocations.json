@@ -1,0 +1,668 @@
+{
+  "locations": [
+    {
+      "id": "ajanta",
+      "name": "Buddhist Murals & Cave Paintings",
+      "artStyle": "Ajanta Cave Murals & Frescoes",
+      "location": "Ajanta Caves",
+      "state": "Maharashtra",
+      "region": "West India",
+      "category": "Temple & Architecture",
+      "coordinates": [
+        20.5519,
+        75.7033
+      ],
+      "period": "2nd Century BCE – 5th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1600100397608-f010e421d428?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1600100397608-f010e421d428?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ajanta_padmapani.jpg/800px-Ajanta_padmapani.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ajanta_Caves%2C_Maharashtra%2C_India.jpg/800px-Ajanta_Caves%2C_Maharashtra%2C_India.jpg"
+      ],
+      "shortDescription": "Masterpieces of ancient Buddhist religious art carved into horseshoe-shaped cliff walls, famous for graceful depictions of Bodhisattvas.",
+      "historicalBackground": "The Ajanta Caves comprise 30 rock-cut Buddhist cave monuments excavated in two distinct phases: first during the Satavahana dynasty (circa 2nd century BCE to 1st century CE) and later during the Vakataka dynasty under King Harishena (circa 460–480 CE). Abandoned and shrouded by dense forest, they were rediscovered in 1819 by British officer John Smith during a tiger hunt.",
+      "culturalSignificance": "The paintings embody the pinnacle of ancient classical Indian mural painting. They depict the life of Gautama Buddha and Jataka tales (stories of Buddha's previous lives), exemplifying profound compassion, serene meditative poise, and sophisticated courtly aesthetics.",
+      "famousArtists": "Monastic artisans and royal guilds under the patronage of the Vakataka emperors, local feudatories, and wealthy Buddhist monks.",
+      "materialsAndTechniques": "True tempera technique on layered plaster made of mud, ferruginous clay, cow dung, and rice husks, finished with fine lime wash. Artists painted with natural mineral pigments including red and yellow ochre, lapis lazuli (imported from Badakhshan), lamp soot, and malachite green using animal hair brushes.",
+      "importantArtworks": "Bodhisattva Padmapani holding a blue lotus (Cave 1), Bodhisattva Vajrapani (Cave 1), Mahajanaka Jataka, and the colossal Reclining Buddha (Cave 26)."
+    },
+    {
+      "id": "ellora",
+      "name": "Rock-Cut Architecture & Sculptures",
+      "artStyle": "Rashtrakuta & Yadava Monolithic Sculpture",
+      "location": "Ellora Caves",
+      "state": "Maharashtra",
+      "region": "West India",
+      "category": "Temple & Architecture",
+      "coordinates": [
+        20.0268,
+        75.179
+      ],
+      "period": "6th – 10th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kailash_temple_at_Ellora_02.jpg/800px-Kailash_temple_at_Ellora_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ellora_Caves_Cave_16_Kailash_Temple.jpg/800px-Ellora_Caves_Cave_16_Kailash_Temple.jpg"
+      ],
+      "shortDescription": "Spectacular multi-faith rock-cut temple complex, home to the colossal monolithic Kailash Temple carved top-down from a single basalt cliff.",
+      "historicalBackground": "Ellora features 34 major open excavated caves showcasing monuments of Hinduism (Caves 13–29), Buddhism (Caves 1–12), and Jainism (Caves 30–34). Commissioned under the Rashtrakuta and Yadava dynasties, Cave 16 (Kailasa) was commissioned by Rashtrakuta King Krishna I in the 8th century CE, removing an estimated 200,000 tonnes of basalt rock.",
+      "culturalSignificance": "A profound symbol of interfaith harmony and architectural audacity in ancient India. Kailasa represents Mount Kailash, the celestial abode of Lord Shiva, manifesting the cosmic order through stone.",
+      "famousArtists": "Master stone masons (sthapathis) and sculptors commissioned under Rashtrakuta King Krishna I and Yadava rulers.",
+      "materialsAndTechniques": "Monolithic top-down quarry excavation into Deccan Trap basalt cliff face. High-relief stone carving, intricate fretwork, and remaining fragments of lime plaster coating and colourful murals.",
+      "importantArtworks": "The Kailash Temple (Cave 16), Ravana Shaking Mount Kailash relief, Dancing Shiva (Nataraja), and the Indra Sabha Jain sanctuary (Cave 32)."
+    },
+    {
+      "id": "warli",
+      "name": "Warli Tribal Painting",
+      "artStyle": "Warli Folk & Ritual Wall Art",
+      "location": "Warli Region (Palghar)",
+      "state": "Maharashtra",
+      "region": "West India",
+      "category": "Tribal Art",
+      "coordinates": [
+        19.9975,
+        72.8258
+      ],
+      "period": "Ancient Living Tradition (10th Century CE roots)",
+      "primaryImage": "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Warli_painting_-_National_Museum_New_Delhi.jpg/800px-Warli_painting_-_National_Museum_New_Delhi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Warli_art_on_wall.jpg/800px-Warli_art_on_wall.jpg"
+      ],
+      "shortDescription": "Elemental tribal art using rudimentary geometric forms to depict rural community life, the sacred circle of nature, and the joyful Tarpa dance.",
+      "historicalBackground": "Created by the indigenous Warli tribe inhabiting the northern Sahyadri range of Maharashtra. Traditionally painted exclusively by women (suvasinis) during marriage ceremonies to bless the wedding chamber (lagna chowk) with the fertility goddess Palaghata.",
+      "culturalSignificance": "Warli art does not portray mythological deities; instead, it venerates mother nature, wildlife, farming cycles, and collective joy. The iconic spiral Tarpa dance symbolizes the circle of life without beginning or end.",
+      "famousArtists": "Jivya Soma Mashe (awarded Padma Shri for pioneering modern Warli art on paper/canvas), Balu Mashe, and Rajesh Chaitya Vangad.",
+      "materialsAndTechniques": "Pure white paste composed of ground rice flour, water, and edible gum binder. Painted onto mud and cow-dung coated walls with chewed bamboo twigs (baharu). Visual vocabulary uses basic shapes: circle (sun/moon), triangle (mountains/conical trees), and square (sacred enclosure).",
+      "importantArtworks": "Lagna Chowk (Wedding Square), Tarpa Dance Circle, Harvest Celebration murals, and Trees of Life."
+    },
+    {
+      "id": "madhubani",
+      "name": "Madhubani / Mithila Painting",
+      "artStyle": "Mithila Folk Painting",
+      "location": "Madhubani",
+      "state": "Bihar",
+      "region": "East India",
+      "category": "Folk Art",
+      "coordinates": [
+        26.3544,
+        86.0718
+      ],
+      "period": "Ancient Folk Tradition (Recorded 14th c. CE / 1934 discovery)",
+      "primaryImage": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Madhubani_painting_at_Dilli_Haat.jpg/800px-Madhubani_painting_at_Dilli_Haat.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Madhubani_art_sample.jpg/800px-Madhubani_art_sample.jpg"
+      ],
+      "shortDescription": "Intricate folk art with double-line borders, vibrant natural dyes, and symbolic flora, fauna, and Hindu epics from the Mithila region.",
+      "historicalBackground": "Mythologically originated when King Janaka commissioned artists to paint his daughter Sita’s wedding to Lord Rama. Traditionally practiced by women across five distinct styles: Bharni (colour-filled), Kachni (fine line hatching), Tantrik (devotional symbols), Godna (tattoo motifs), and Gobar (cow dung wash).",
+      "culturalSignificance": "Mithila paintings act as ritual blessings on house walls, especially the Kohbar Ghar (honeymoon chamber), depicting fertility symbols like the lotus, fish, tortoises, parrots, and the cosmic sun and moon.",
+      "famousArtists": "Jagdamba Devi (first Padma Shri recipient in 1975), Mahasundari Devi, Sita Devi, Baua Devi, and Dulari Devi.",
+      "materialsAndTechniques": "Double line outlines drawn using bamboo splints wrapped with cotton wool or fountain pens. Natural colours derived from turmeric, indigo, soot, kusum flowers, palash, and rice powder, now also applied to handmade paper and silk.",
+      "importantArtworks": "Kohbar Ghar Nuptial Murals, Krishna and the Gopis, Radha-Krishna Ras Leela, and Ram-Sita Vivah."
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur Miniature Painting & Crafts",
+      "artStyle": "Dhundhar & Jaipur Court Miniature Art",
+      "location": "Jaipur",
+      "state": "Rajasthan",
+      "region": "North India",
+      "category": "Classical Miniature",
+      "coordinates": [
+        26.9124,
+        75.7873
+      ],
+      "period": "16th – 18th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Maharaja_Sawai_Jai_Singh_II.jpg/800px-Maharaja_Sawai_Jai_Singh_II.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Krishna_and_Radha_in_a_Pavilion%2C_Jaipur_School.jpg/800px-Krishna_and_Radha_in_a_Pavilion%2C_Jaipur_School.jpg"
+      ],
+      "shortDescription": "Regal court paintings with glowing gold leaf, intricate architectural vistas, and refined portraiture patronized by Kachwaha Rajput rulers.",
+      "historicalBackground": "Flourished under the royal patronage of Sawai Jai Singh II and Sawai Pratap Singh in the Suratkhana (royal painting atelier) of Jaipur. The style synthesized Rajput vitality with Mughal precision, developing grand format manuscripts and monumental portraits.",
+      "culturalSignificance": "Illustrated classical literary masterpieces such as the Ragamala (musical modes visualised as deities), Gita Govinda, and Rasikapriya, immortalizing the elegance of 18th-century royal court culture and divine romance.",
+      "famousArtists": "Sahibram (renowned master of life-size portraits), Muhammad Shah, Ramji Das, and Govind.",
+      "materialsAndTechniques": "Handmade wasli paper layered and burnished with agate stone. Ground mineral pigments including lapis lazuli, vermilion (hinglu), malachite, real gold leaf (varaq), and brushes made from hair of squirrel tails.",
+      "importantArtworks": "Ragamala manuscript folios, Life-size portraits of Sawai Pratap Singh, Krishna Leela court scenes, and Rasikapriya series."
+    },
+    {
+      "id": "udaipur",
+      "name": "Mewar Miniature Painting",
+      "artStyle": "Mewar School of Rajput Painting",
+      "location": "Udaipur",
+      "state": "Rajasthan",
+      "region": "North India",
+      "category": "Classical Miniature",
+      "coordinates": [
+        24.5854,
+        73.7125
+      ],
+      "period": "16th – 18th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1591522810850-58128c5fb089?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1591522810850-58128c5fb089?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maharana_Jagat_Singh_II_hunting.jpg/800px-Maharana_Jagat_Singh_II_hunting.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mewar_School_Painting_Udaipur.jpg/800px-Mewar_School_Painting_Udaipur.jpg"
+      ],
+      "shortDescription": "Passionate and bold Rajput school distinguished by fiery vermilion backgrounds, lush lotus ponds, and deep devotional intensity.",
+      "historicalBackground": "Originating in the fortress of Chittorgarh and later flourishing in the lake city of Udaipur under Maharanas Jagat Singh I and Sangram Singh II. Mewar painters resisted direct Mughal mannerisms, preserving ancient indigenous Indian pictorial idioms.",
+      "culturalSignificance": "The Mewar school captured dramatic poetic verses with expressive fish-shaped eyes, intense emotional color palettes, and sacred architectural pavilions celebrating Lord Krishna.",
+      "famousArtists": "Sahibdin (court master behind the 1628 Ragamala and Bhagavata Purana), Manohar, and Nisardi.",
+      "materialsAndTechniques": "Wasli paper treated with starch paste, burnished with shell or agate stones. Crushed gemstones, conch shell white, vermilion, saffron yellow, and pure gold illumination.",
+      "importantArtworks": "The 1628 Ragamala series by Sahibdin, Jagat Singh Ramayana manuscript, and Bhagavata Purana illustrations."
+    },
+    {
+      "id": "puri",
+      "name": "Puri Pattachitra Painting",
+      "artStyle": "Odia Pattachitra Cloth Scroll",
+      "location": "Puri",
+      "state": "Odisha",
+      "region": "East India",
+      "category": "Folk Art",
+      "coordinates": [
+        19.8135,
+        85.8312
+      ],
+      "period": "12th Century CE (Jagannath Temple era)",
+      "primaryImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pattachitra_Puri_Jagannath.jpg/800px-Pattachitra_Puri_Jagannath.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pattachitra_of_Odisha.jpg/800px-Pattachitra_of_Odisha.jpg"
+      ],
+      "shortDescription": "Sacred cloth paintings rooted in the Jagannath cult, adorned with decorative floral borders and rhythmic classical stances.",
+      "historicalBackground": "Directly linked with the worship rituals of Jagannath Temple in Puri. During the annual \"Anavasara\" fortnight—when the deities are secluded due to illness following the Snana Yatra—three massive Pattachitra paintings (Anasar Pati) take their place on the sanctum altar.",
+      "culturalSignificance": "Pattachitra is a living spiritual sadhana for the chitrakar community. Visualizing tales of Lord Jagannath, Dashavatara (ten incarnations of Vishnu), and Krishna Leela with ornate ornamental borders.",
+      "famousArtists": "Chitrakar mahapatras serving the Jagannath Temple, and hereditary masters of Puri district.",
+      "materialsAndTechniques": "Pattas (canvases) prepared by bonding layers of cotton cloth with tamarind seed gum and soft clay powder, burnished with river stones. Natural colours: conch-shell white, hingula red, haritala yellow, and lampblack.",
+      "importantArtworks": "Anasar Pati temple icons, Kanchi Abhiyan, Dashavatara Patti, and Kaliya Dalan."
+    },
+    {
+      "id": "raghurajpur",
+      "name": "Traditional Pattachitra & Palm Leaf Village",
+      "artStyle": "Tala Pattachitra & Heritage Crafts",
+      "location": "Raghurajpur Heritage Village",
+      "state": "Odisha",
+      "region": "East India",
+      "category": "Folk Art",
+      "coordinates": [
+        19.8732,
+        85.8242
+      ],
+      "period": "Century-Old Heritage Village (Declared 2000)",
+      "primaryImage": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Raghurajpur_Heritage_Craft_Village_Artist.jpg/800px-Raghurajpur_Heritage_Craft_Village_Artist.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Palm_leaf_manuscript_painting_Raghurajpur.jpg/800px-Palm_leaf_manuscript_painting_Raghurajpur.jpg"
+      ],
+      "shortDescription": "India’s renowned living heritage art village where every household creates fine palm leaf etchings, papier-mâché masks, and stone carvings.",
+      "historicalBackground": "Raghurajpur, nestled among coconut and betel groves near Puri, is celebrated for preserving uninterrupted artisan lineages. Declared a heritage crafts village by INTACH in 2000, it is also the birthplace of legendary Odissi dance guru Kelucharan Mohapatra.",
+      "culturalSignificance": "An unparalleled communal ecosystem of intangible cultural heritage. Palm leaf engraving (Talapatra Chitra) requires razor-sharp microscopic incision skills passed across generations.",
+      "famousArtists": "Jagannath Mahapatra, Banamali Mohapatra, and master Gotipua/Chitrakar artisan families.",
+      "materialsAndTechniques": "Dried, cured palmyra palm leaves stitched with thread. Artisans etch intricate scenes using a sharp iron stylus (lekhani) and rub lampblack mixed with bean oil into grooves before colouring.",
+      "importantArtworks": "Intricately etched Talapatra Chitra manuscripts, Ganjifa playing cards, cow dung toys, and wooden temple carvings."
+    },
+    {
+      "id": "srikalahasti",
+      "name": "Srikalahasti Freehand Kalamkari",
+      "artStyle": "Freehand Kalamkari Temple Scrolls",
+      "location": "Srikalahasti",
+      "state": "Andhra Pradesh",
+      "region": "South India",
+      "category": "Textile & Craft",
+      "coordinates": [
+        13.7498,
+        79.6984
+      ],
+      "period": "14th – 17th Century CE (Vijayanagara Empire)",
+      "primaryImage": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kalamkari_Srikalahasti_tree_of_life.jpg/800px-Kalamkari_Srikalahasti_tree_of_life.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kalamkari_painting_on_cloth.jpg/800px-Kalamkari_painting_on_cloth.jpg"
+      ],
+      "shortDescription": "Sacred temple textiles hand-drawn with bamboo pens, depicting epics and deities through up to 23 elaborate organic dyeing stages.",
+      "historicalBackground": "Flourished under the patron kings of the Vijayanagara Empire around the holy temple town of Srikalahasti on the banks of the Swarnamukhi river. Large narrative cloth banners were hung in temple sanctums to illustrate sacred hymns to worshippers.",
+      "culturalSignificance": "The word \"Kalamkari\" stems from Persian \"kalam\" (pen) and \"kari\" (craftmanship). Unlike block-printed variants, Srikalahasti Kalamkari is completely freehand, infusing individual devotional devotion into every stroke.",
+      "famousArtists": "J. Niranjan, Jonnalagadda Gurappa Chetty (Padma Shri), and hereditary master painters of Chittoor.",
+      "materialsAndTechniques": "Unbleached cotton treated with buffalo milk and myrobalan seed extract. Outlines drawn with sharp bamboo pens using fermented iron rust liquid (kasim khara). Natural dyes from madder roots, indigo, and pomegranate rind, washed repeatedly in flowing river waters.",
+      "importantArtworks": "Ramayana and Mahabharata narrative temple canopies, Tree of Life wall hangings, and Shiva-Parvati Kalyanam."
+    },
+    {
+      "id": "machilipatnam",
+      "name": "Machilipatnam Block-Printed Kalamkari",
+      "artStyle": "Pedana Block-Printed Kalamkari",
+      "location": "Machilipatnam & Pedana",
+      "state": "Andhra Pradesh",
+      "region": "South India",
+      "category": "Textile & Craft",
+      "coordinates": [
+        16.1875,
+        81.1389
+      ],
+      "period": "16th Century CE (Golconda & Maritime Trade)",
+      "primaryImage": "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Machilipatnam_kalamkari_block_print.jpg/800px-Machilipatnam_kalamkari_block_print.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kalamkari_textile_detail.jpg/800px-Kalamkari_textile_detail.jpg"
+      ],
+      "shortDescription": "World-famous block-printed botanical and floral chintz textiles crafted with hand-carved teak woodblocks and plant-based mordant dyes.",
+      "historicalBackground": "Centered around the ancient port city of Machilipatnam and neighboring Pedana. Heavily patronized by the Qutb Shahi rulers of Golconda and traded worldwide by Arab, Persian, and European merchants as prized Indian \"chintz\" and \"palampore\".",
+      "culturalSignificance": "A triumph of Indian textile chemistry and woodcarving mastery. The patterns blend Persian floral arabesques, mihrab motifs, and Indian botanical trees.",
+      "famousArtists": "Pitchuka family of Pedana (Pitchuka Srinivas and Varun Kumar), and the Machilipatnam artisan cooperative.",
+      "materialsAndTechniques": "Intricately hand-carved teak wood blocks. Cotton fabric boiled with myrobalan nuts, printed with alum and iron acetate mordants, bathed in boiling copper vats with natural dyes (alizarin, jaggery, indigo).",
+      "importantArtworks": "The Imperial Tree of Life (Palampore), Persian Mihrab Prayer rugs, and Botanical Chintz scrolls."
+    },
+    {
+      "id": "thanjavur",
+      "name": "Thanjavur / Tanjore Painting",
+      "artStyle": "Classical Tanjore Gesso & Gold Art",
+      "location": "Thanjavur",
+      "state": "Tamil Nadu",
+      "region": "South India",
+      "category": "Classical Miniature",
+      "coordinates": [
+        10.787,
+        79.1378
+      ],
+      "period": "16th – 18th Century CE (Nayak & Maratha Dynasties)",
+      "primaryImage": "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thanjavur_painting_of_Lord_Krishna.jpg/800px-Thanjavur_painting_of_Lord_Krishna.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tanjore_painting.jpg/800px-Tanjore_painting.jpg"
+      ],
+      "shortDescription": "Opulent devotional icon paintings distinguished by raised three-dimensional gesso relief, genuine 22-carat gold foil, and glittering gemstones.",
+      "historicalBackground": "Flourished under the Nayak rulers of Thanjavur and attained extraordinary refinement under the Maratha rulers of Tanjore, notably King Serfoji II (1798–1832 CE). Traditional artist families known as Rajus in Tanjore and Trichy kept the technique sacred.",
+      "culturalSignificance": "Created primarily as sacred icons for home shrines (puja rooms) and temples. The sparkling 22k gold foil illuminates in dim oil lamp light, creating a mystical aura around the smiling, plump-faced child Krishna.",
+      "famousArtists": "C. Raja Raja Varma, traditional Raju and Naidu artisan guilds of Thanjavur.",
+      "materialsAndTechniques": "Jackfruit or teak wood board pasted with muslin cloth. Gesso paste prepared from powdered limestone (sukka) and gum Arabic. Embellished with 22-carat pure gold leaf and inlaid Jaipur semi-precious stones or glass cutwork.",
+      "importantArtworks": "Navaneetha Krishna (Baby Krishna with Butter Pot), Brihadeeswara iconography, Rama Pattabhishekam, and Goddess Gajalakshmi."
+    },
+    {
+      "id": "mysore",
+      "name": "Mysore Traditional Painting",
+      "artStyle": "Mysore Court & Gesso Painting",
+      "location": "Mysuru (Mysore)",
+      "state": "Karnataka",
+      "region": "South India",
+      "category": "Classical Miniature",
+      "coordinates": [
+        12.2958,
+        76.6394
+      ],
+      "period": "14th – 19th Century CE (Vijayanagara & Wodeyar Dynasties)",
+      "primaryImage": "https://images.unsplash.com/photo-1580837119756-563d608dd119?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1580837119756-563d608dd119?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mysore_painting_Goddess_Saraswati.jpg/800px-Mysore_painting_Goddess_Saraswati.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mysore_traditional_painting.jpg/800px-Mysore_traditional_painting.jpg"
+      ],
+      "shortDescription": "Elegantly muted sacred art known for delicate brushwork, graceful expressions, and delicate low-relief gold foil without heavy gemstone inlay.",
+      "historicalBackground": "Emerged from the Vijayanagara tradition following the fall of Hampi in 1565. Revitalized under the Wodeyar dynasty of Mysore, especially Maharaja Mummadi Krishnaraja Wodeyar III (1794–1868), who patronized numerous scriptural illustrated manuscripts.",
+      "culturalSignificance": "Focuses on spiritual serenity (shanta rasa) and anatomical grace. Unlike Tanjore painting, the gesso relief is kept subtle and low, emphasizing nuanced brushwork and expressive facial features.",
+      "famousArtists": "K. Venkatappa, B. Sundaram, and traditional Chitragara artisan families.",
+      "materialsAndTechniques": "Paper mounted on wood or cart paper base. Low gesso relief made with makki paste (white lead, zinc oxide, and Arabic gum). Meticulously overlaid with ultra-thin gold foil and illuminated with subdued mineral watercolours.",
+      "importantArtworks": "Goddess Saraswati with Veena, Chamundeshwari slaying Mahishasura, Rajarajeshwari, and Sritattvanidhi illustrated compendium."
+    },
+    {
+      "id": "hampi",
+      "name": "Hampi Vijayanagara Architecture & Art",
+      "artStyle": "Vijayanagara Imperial Granite Sculpture & Murals",
+      "location": "Hampi",
+      "state": "Karnataka",
+      "region": "South India",
+      "category": "Temple & Architecture",
+      "coordinates": [
+        15.335,
+        76.46
+      ],
+      "period": "14th – 16th Century CE (1336–1565 CE)",
+      "primaryImage": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Stone_Chariot_Hampi.jpg/800px-Stone_Chariot_Hampi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vittala_Temple_Hampi.jpg/800px-Vittala_Temple_Hampi.jpg"
+      ],
+      "shortDescription": "Colossal ruins of the grand capital of the Vijayanagara Empire, featuring musical pillars, the iconic Stone Chariot, and ceiling frescoes.",
+      "historicalBackground": "Hampi was the majestic capital of the Vijayanagara Empire (1336–1565 CE), described by European travelers as one of the richest and largest cities in the world. Destroyed after the Battle of Talikota, its sprawling granite ruins are today a UNESCO World Heritage site.",
+      "culturalSignificance": "Synthesized Dravidian, Chalukyan, and Islamic architectural influences into a monumental imperial style with dynamic horse capitals, monolithic guardian deities, and epic narrative relief friezes.",
+      "famousArtists": "Royal imperial architects and master guild carvers under Emperor Krishnadevaraya.",
+      "materialsAndTechniques": "Monolithic and interlocking hard granite carving, cyclopean dry masonry, musical hollow acoustic pillars, and lime fresco paintings on temple ceilings.",
+      "importantArtworks": "The Stone Chariot at Vittala Temple, 56 Musical Pillars of Ranga Mantapa, Monolithic Ugra Narasimha, and Virupaksha Temple ceiling frescoes."
+    },
+    {
+      "id": "kangra",
+      "name": "Kangra Miniature Painting",
+      "artStyle": "Kangra School of Pahari Miniature Art",
+      "location": "Kangra Valley",
+      "state": "Himachal Pradesh",
+      "region": "North India",
+      "category": "Classical Miniature",
+      "coordinates": [
+        32.0998,
+        76.2691
+      ],
+      "period": "Mid-18th – 19th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Radha_and_Krishna_in_the_grove_Kangra.jpg/800px-Radha_and_Krishna_in_the_grove_Kangra.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kangra_painting_Gita_Govinda.jpg/800px-Kangra_painting_Gita_Govinda.jpg"
+      ],
+      "shortDescription": "The pinnacle of Pahari hill painting, celebrated for lyricism, flowering landscapes, delicate female beauty, and the divine romance of Radha-Krishna.",
+      "historicalBackground": "Developed under the enthusiastic patronage of Maharaja Sansar Chand (1775–1823) in the Kangra Valley. Master painters migrating from Mughal courts found sanctuary in the Himalayan foothills, infusing pastoral hills with romantic Vaishnava poetry.",
+      "culturalSignificance": "Regarded as one of India's most refined court painting traditions. Every landscape detail—blooming kadamba trees, meandering rivers, lightning flashes in rainy clouds—reflects human emotion (bhava).",
+      "famousArtists": "Nainsukh of Guler, his brother Manaku, and master painters Fattu and Purkhu.",
+      "materialsAndTechniques": "Fine Sialkoti handmade paper. Brushes crafted from squirrel hair. Colours prepared from ground precious stones (lapis lazuli, pearls), natural earth ochres, and pure gold illumination.",
+      "importantArtworks": "The Gita Govinda series, Bhagavata Purana illustrations, Nala Damayanti narrative folios, and Baramasa (Songs of the Twelve Months)."
+    },
+    {
+      "id": "varanasi",
+      "name": "Varanasi Zari Brocade & Crafts",
+      "artStyle": "Banarasi Zari Brocade & Wooden Lacquerware",
+      "location": "Varanasi (Kashi)",
+      "state": "Uttar Pradesh",
+      "region": "North India",
+      "category": "Textile & Craft",
+      "coordinates": [
+        25.3176,
+        82.9739
+      ],
+      "period": "Ancient Vedic Roots – Mughal Golden Age (16th Century)",
+      "primaryImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banarasi_silk_saree_zari_craft.jpg/800px-Banarasi_silk_saree_zari_craft.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Varanasi_textile_weaving.jpg/800px-Varanasi_textile_weaving.jpg"
+      ],
+      "shortDescription": "Legendary silk brocades woven with gold and silver zari threads, featuring intricate jaal patterns, paisley kalkas, and royal Mughal borders.",
+      "historicalBackground": "Varanasi has been an epicenter of fine weaving since the time of the Buddha. During the Mughal period under Akbar and Jahangir, Persian masters converged with Kashi weavers to create the opulence of Banarasi Kinkhwab (cloth of gold).",
+      "culturalSignificance": "An essential treasure of Indian heritage, wedding trousseaus, and sacred ceremonies. It symbolizes timeless prosperity, artisanal dignity, and communal harmony between Hindu and Muslim weaver communities.",
+      "famousArtists": "Master Ansari weaver lineages, contemporary weavers of Madanpura and Alaipura, and traditional wooden toy craftsmen of Khojwan.",
+      "materialsAndTechniques": "Pure Katan mulberry silk threads interwoven with real gold/silver flattened wire (zari). Complex supplementary weft jacquard and drawloom weaving creating Shikargah (hunting scenes), Jangla, and Butidar motifs.",
+      "importantArtworks": "Kinkhwab (cloth of gold brocade), Tanchoi silk weaves, Jamdani sarees, and colorful lacquer wooden toys."
+    },
+    {
+      "id": "sanchi",
+      "name": "Sanchi Buddhist Sculptures & Toranas",
+      "artStyle": "Mauryan & Sunga Monumental Buddhist Sculpture",
+      "location": "Sanchi",
+      "state": "Madhya Pradesh",
+      "region": "Central India",
+      "category": "Temple & Architecture",
+      "coordinates": [
+        23.4794,
+        77.7397
+      ],
+      "period": "3rd Century BCE – 1st Century CE (Ashokan Foundation)",
+      "primaryImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Great_Stupa_at_Sanchi_Madhya_Pradesh.jpg/800px-Great_Stupa_at_Sanchi_Madhya_Pradesh.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sanchi_Torana_gateway_carving.jpg/800px-Sanchi_Torana_gateway_carving.jpg"
+      ],
+      "shortDescription": "The oldest stone structure in India, renowned for four magnificently carved stone Toranas (ceremonial gateways) narrating the life of the Buddha.",
+      "historicalBackground": "The Great Stupa was originally commissioned by Mauryan Emperor Ashoka the Great in the 3rd century BCE to enshrine the relics of Lord Buddha. The four ornate stone Torana gateways were added under the Satavahana dynasty around the 1st century BCE.",
+      "culturalSignificance": "Exemplifies the early aniconic phase of Buddhist art, where Buddha was represented through symbols rather than human form: the Wheel of Law (Dharmachakra), the Bodhi Tree, footprints (Buddhapaduka), and empty throne.",
+      "famousArtists": "The guild of ivory carvers from the nearby city of Vidisha, whose microscopic precision is visible in the stone gateways.",
+      "materialsAndTechniques": "Locally quarried buff and grey sandstone. Intricate relief carving mimicking carpenter woodwork and delicate ivory carving traditions.",
+      "importantArtworks": "The Great Stupa (Stupa 1), Four Ornamental Toranas, Ashoka Pillar with Lion Capital, and Shalabhanjika (Yakshi tree nymph bracket)."
+    },
+    {
+      "id": "khajuraho",
+      "name": "Khajuraho Temple Sculptures",
+      "artStyle": "Chandela Nagara Architecture & Sculptural Art",
+      "location": "Khajuraho",
+      "state": "Madhya Pradesh",
+      "region": "Central India",
+      "category": "Temple & Architecture",
+      "coordinates": [
+        24.8318,
+        79.9199
+      ],
+      "period": "950 – 1050 CE (Chandela Dynasty)",
+      "primaryImage": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kandariya_Mahadeva_Temple_Khajuraho.jpg/800px-Kandariya_Mahadeva_Temple_Khajuraho.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Khajuraho_Sculptures.jpg/800px-Khajuraho_Sculptures.jpg"
+      ],
+      "shortDescription": "Breathtaking sandstone temples celebrated for sublime architectural shikhara spires and intricate carvings celebrating all facets of human life.",
+      "historicalBackground": "Built by the Chandela Rajput dynasty between 950 and 1050 CE in their religious capital. Originally consisting of 85 temples spanning Hindu and Jain faiths, 25 survive today as a celebrated UNESCO World Heritage complex.",
+      "culturalSignificance": "Presents a holistic vision of classical Indian cosmic thought, where the four goals of life (Dharma, Artha, Kama, Moksha) harmonize seamlessly. The surasundaris (celestial maidens) applying kohl or removing a thorn capture everyday realism with spiritual transcendence.",
+      "famousArtists": "Master architects (sthapathis) and master sculptors sponsored by Chandela Kings Dhanga and Vidyadhara.",
+      "materialsAndTechniques": "Buff-coloured fine-grained sandstone assembled using precise mortise and tenon joints without any mortar or cement.",
+      "importantArtworks": "Kandariya Mahadeva Temple, Lakshmana Temple, Vishvanatha Temple, and the erotic & celestial nymph relief panels."
+    },
+    {
+      "id": "kutch",
+      "name": "Kutch Rogan Painting & Crafts",
+      "artStyle": "Rogan Castor-Oil Fabric Art",
+      "location": "Nirona (Kutch)",
+      "state": "Gujarat",
+      "region": "West India",
+      "category": "Textile & Craft",
+      "coordinates": [
+        23.7337,
+        69.8597
+      ],
+      "period": "Over 300 Years of Family Heritage",
+      "primaryImage": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rogan_Art_Nirona_Kutch.jpg/800px-Rogan_Art_Nirona_Kutch.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rogan_painting_Tree_of_Life.jpg/800px-Rogan_painting_Tree_of_Life.jpg"
+      ],
+      "shortDescription": "A rare and hypnotic art where boiled castor oil paste is sculpted into colorful threads with a metal stylus without ever touching the fabric directly.",
+      "historicalBackground": "Originated in Persia and brought to the arid Kutch region of Gujarat over 300 years ago. Preserved exclusively by the Khatri family of Nirona village, who rescued it from near extinction through sheer dedication.",
+      "culturalSignificance": "Presented as state gifts to world leaders, Rogan art captures the vibrant botanical spirit of Gujarat. The symmetrical \"Tree of Life\" motif is created by painting one half of the fabric and folding it to produce an exact mirror impression.",
+      "famousArtists": "Padma Shri Abdul Gafur Khatri, Sumar Khatri, and the extended Khatri artisan family.",
+      "materialsAndTechniques": "Castor oil boiled continuously for two days until it transforms into a thick, elastic gel (rogan). Mixed with mineral and stone pigments, warmed in the palm, and guided using a 6-inch blunt iron stylus onto dark silk or cotton.",
+      "importantArtworks": "The Rogan Tree of Life (presented to foreign heads of state), Bridal Ghagra panels, and geometric floral borders."
+    },
+    {
+      "id": "kolkata",
+      "name": "Bengal School of Art & Modern Movement",
+      "artStyle": "Bengal Revivalist Wash Technique & Kalighat",
+      "location": "Kolkata (Calcutta)",
+      "state": "West Bengal",
+      "region": "East India",
+      "category": "Modern Revival",
+      "coordinates": [
+        22.5726,
+        88.3639
+      ],
+      "period": "Late 19th – Early 20th Century CE",
+      "primaryImage": "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bharat_Mata_by_Abanindranath_Tagore.jpg/800px-Bharat_Mata_by_Abanindranath_Tagore.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kalighat_painting_Bengal.jpg/800px-Kalighat_painting_Bengal.jpg"
+      ],
+      "shortDescription": "A transformative artistic nationalist renaissance led by the Tagore family that shaped modern Indian art identity, fusing Ajanta frescoes with Asian wash techniques.",
+      "historicalBackground": "Founded in early 20th-century Calcutta by Abanindranath Tagore and E. B. Havell, reacting against rigid British colonial academic realism. Coincided with the popular Kalighat patua painting movement thriving around Kolkata's Kalighat temple.",
+      "culturalSignificance": "Formulated the first modern pan-Indian visual language, celebrating national spiritual heritage, folklore, and everyday Indian humanity with lyrical poetic sensibility.",
+      "famousArtists": "Abanindranath Tagore, Nandalal Bose, Jamini Roy, Asit Kumar Haldar, and Gaganendranath Tagore.",
+      "materialsAndTechniques": "Distinctive \"Japanese wash technique\" developed with Kakuzo Okakura, applying multiple layers of watery translucent pigment, washing, and re-painting on fine handmade paper. Bold fluid brushwork in Kalighat pat paintings.",
+      "importantArtworks": "Bharat Mata (1905) by Abanindranath Tagore, Journey's End, Santhal Family by Ramkinkar Baij, and Jamini Roy's folk modernists."
+    },
+    {
+      "id": "cheriyal",
+      "name": "Cheriyal Scroll Painting",
+      "artStyle": "Cheriyal Narrative Scroll & Nakashi Art",
+      "location": "Cheriyal",
+      "state": "Telangana",
+      "region": "South India",
+      "category": "Folk Art",
+      "coordinates": [
+        17.8016,
+        79.1037
+      ],
+      "period": "15th – 17th Century CE (Kakatiya & Golconda era)",
+      "primaryImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cheriyal_Scroll_Painting_Telangana.jpg/800px-Cheriyal_Scroll_Painting_Telangana.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cheriyal_nakashi_scroll.jpg/800px-Cheriyal_nakashi_scroll.jpg"
+      ],
+      "shortDescription": "Vibrant narrative scroll paintings extending up to 40 feet on fiery crimson backgrounds, used by wandering bards to tell epic folklore.",
+      "historicalBackground": "A stylized version of Nakashi art indigenous to Cheriyal village in Telangana. Traditionally commissioned by the itinerant Kaki Padigela and community bards, who unrolled continuous scrolls accompanied by music, dance, and dolls.",
+      "culturalSignificance": "Functions as an ancient graphic novel of rural Telangana, illustrating community legends, epics like Mahabharata, and caste histories in dynamic visual panels.",
+      "famousArtists": "D. Vaikuntam Nakash (National Awardee), D. Dhanalaxmi, and the Nakashi artisan lineage of Cheriyal.",
+      "materialsAndTechniques": "Khadi cloth treated with tamarind seed paste, white mud (sudha mati), and rice starch. Painted with natural mineral colours—geru (crimson), ramraj (yellow), lamp soot, and sea shell white—with squirrel hair brushes.",
+      "importantArtworks": "Markandeya Purana scroll, Krishna Leela continuous scroll, and Cheriyal sawdust & tamarind seed folk masks."
+    }
+  ],
+  "regions": [
+    {
+      "id": "all",
+      "label": "All Regions"
+    },
+    {
+      "id": "North India",
+      "label": "North India"
+    },
+    {
+      "id": "South India",
+      "label": "South India"
+    },
+    {
+      "id": "East India",
+      "label": "East India"
+    },
+    {
+      "id": "West India",
+      "label": "West India"
+    },
+    {
+      "id": "Central India",
+      "label": "Central India"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "label": "All Categories"
+    },
+    {
+      "id": "Folk Art",
+      "label": "Folk Art",
+      "color": "#B5532F"
+    },
+    {
+      "id": "Tribal Art",
+      "label": "Tribal Art",
+      "color": "#2F7D4F"
+    },
+    {
+      "id": "Classical Miniature",
+      "label": "Classical & Miniature",
+      "color": "#6D1F2B"
+    },
+    {
+      "id": "Temple & Architecture",
+      "label": "Temple & Murals",
+      "color": "#8A5A2B"
+    },
+    {
+      "id": "Textile & Craft",
+      "label": "Textiles & Crafts",
+      "color": "#A87400"
+    },
+    {
+      "id": "Modern Revival",
+      "label": "Modern Revival",
+      "color": "#1F5B66"
+    }
+  ],
+  "featured": [
+    {
+      "id": "warli",
+      "name": "Warli Painting",
+      "state": "Maharashtra",
+      "targetLocationId": "warli",
+      "image": "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=800&q=80",
+      "description": "Ancestral geometric tribal painting in rice paste celebrating harmony between humankind and the earth."
+    },
+    {
+      "id": "madhubani",
+      "name": "Madhubani Painting",
+      "state": "Bihar",
+      "targetLocationId": "madhubani",
+      "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=800&q=80",
+      "description": "Double-lined Mithila folk art bursting with spiritual symbolism, nature motifs, and vibrant natural pigments."
+    },
+    {
+      "id": "kalamkari",
+      "name": "Kalamkari",
+      "state": "Andhra Pradesh",
+      "targetLocationId": "srikalahasti",
+      "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80",
+      "description": "Ancient bamboo-pen drawn and block-printed cotton art celebrating temple narratives and the Tree of Life."
+    },
+    {
+      "id": "pattachitra",
+      "name": "Pattachitra",
+      "state": "Odisha",
+      "targetLocationId": "raghurajpur",
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+      "description": "Exquisite cloth and palm-leaf scroll paintings honoring Lord Jagannath and the Dashavatara epics."
+    },
+    {
+      "id": "tanjore",
+      "name": "Tanjore Painting",
+      "state": "Tamil Nadu",
+      "targetLocationId": "thanjavur",
+      "image": "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=800&q=80",
+      "description": "Luminous devotional panel art with 22-carat gold foil, three-dimensional gesso relief, and precious stones."
+    },
+    {
+      "id": "mysore",
+      "name": "Mysore Painting",
+      "state": "Karnataka",
+      "targetLocationId": "mysore",
+      "image": "https://images.unsplash.com/photo-1580837119756-563d608dd119?auto=format&fit=crop&w=800&q=80",
+      "description": "Classical court paintings of serene grace, subtle gold relief, and delicate anatomical brushwork."
+    },
+    {
+      "id": "kangra",
+      "name": "Kangra Miniature",
+      "state": "Himachal Pradesh",
+      "targetLocationId": "kangra",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "description": "Poetic Pahari court miniatures renowned for lyrical romance, flowing landscape hills, and Krishna bhakti."
+    },
+    {
+      "id": "rogan",
+      "name": "Rogan Art",
+      "state": "Gujarat",
+      "targetLocationId": "kutch",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+      "description": "Miraculous castor oil thread painting drawn in mid-air with an iron stylus by master Khatri craftsmen."
+    },
+    {
+      "id": "cheriyal",
+      "name": "Cheriyal Scroll Painting",
+      "state": "Telangana",
+      "targetLocationId": "cheriyal",
+      "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+      "description": "Dramatic crimson narrative scrolls unfurled by wandering bards to illustrate historic regional folk tales."
+    },
+    {
+      "id": "bengal",
+      "name": "Bengal School of Art",
+      "state": "West Bengal",
+      "targetLocationId": "kolkata",
+      "image": "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=800&q=80",
+      "description": "A revolutionary nationalist renaissance blending classical Indian frescoes, folklore, and Japanese wash."
+    }
+  ]
+}

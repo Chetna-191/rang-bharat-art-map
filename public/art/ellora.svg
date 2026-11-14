@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="rockBasalt" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4F4640" />
+      <stop offset="50%" stop-color="#3A322C" />
+      <stop offset="100%" stop-color="#241E1A" />
+    </linearGradient>
+  </defs>
+  <!-- Deccan Basalt Rock Quarry Wall -->
+  <rect width="800" height="600" fill="url(#rockBasalt)" />
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#D19C4C" stroke-width="3" opacity="0.6" />
+
+  <!-- Monolithic Kailash Shikhara & Mandapa Carved Out of Rock -->
+  <g transform="translate(400, 480)">
+    <!-- Massive Rock Plinth with Carved Elephants -->
+    <rect x="-260" y="-80" width="520" height="80" fill="#2E2722" stroke="#1A1410" stroke-width="3" />
+    <!-- Elephant Reliefs at Base -->
+    
+      <g transform="translate(-180, -40) scale(0.6)">
+        <ellipse cx="0" cy="0" rx="35" ry="25" fill="#483D35" stroke="#1A1410" stroke-width="2" />
+        <path d="M25,0 C40,10 35,30 20,35" stroke="#483D35" stroke-width="7" fill="none" />
+      </g>
+    
+      <g transform="translate(-90, -40) scale(0.6)">
+        <ellipse cx="0" cy="0" rx="35" ry="25" fill="#483D35" stroke="#1A1410" stroke-width="2" />
+        <path d="M25,0 C40,10 35,30 20,35" stroke="#483D35" stroke-width="7" fill="none" />
+      </g>
+    
+      <g transform="translate(0, -40) scale(0.6)">
+        <ellipse cx="0" cy="0" rx="35" ry="25" fill="#483D35" stroke="#1A1410" stroke-width="2" />
+        <path d="M25,0 C40,10 35,30 20,35" stroke="#483D35" stroke-width="7" fill="none" />
+      </g>
+    
+      <g transform="translate(90, -40) scale(0.6)">
+        <ellipse cx="0" cy="0" rx="35" ry="25" fill="#483D35" stroke="#1A1410" stroke-width="2" />
+        <path d="M25,0 C40,10 35,30 20,35" stroke="#483D35" stroke-width="7" fill="none" />
+      </g>
+    
+      <g transform="translate(180, -40) scale(0.6)">
+        <ellipse cx="0" cy="0" rx="35" ry="25" fill="#483D35" stroke="#1A1410" stroke-width="2" />
+        <path d="M25,0 C40,10 35,30 20,35" stroke="#483D35" stroke-width="7" fill="none" />
+      </g>
+    
+
+    <!-- Pillared Mandapa Hall -->
+    <rect x="-180" y="-180" width="360" height="100" fill="#3D332B" stroke="#1A1410" stroke-width="3" />
+    <!-- Carved Pillars -->
+    
+      <line x1="-150" y1="-180" x2="-150" y2="-80" stroke="#635447" stroke-width="12" />
+    
+      <line x1="-90" y1="-180" x2="-90" y2="-80" stroke="#635447" stroke-width="12" />
+    
+      <line x1="-30" y1="-180" x2="-30" y2="-80" stroke="#635447" stroke-width="12" />
+    
+      <line x1="30" y1="-180" x2="30" y2="-80" stroke="#635447" stroke-width="12" />
+    
+      <line x1="90" y1="-180" x2="90" y2="-80" stroke="#635447" stroke-width="12" />
+    
+      <line x1="150" y1="-180" x2="150" y2="-80" stroke="#635447" stroke-width="12" />
+    
+
+    <!-- Towering Multi-Tiered Dravidian Shikhara (Vimana) -->
+    <polygon points="0,-420 -80,-180 80,-180" fill="#483D35" stroke="#1A1410" stroke-width="3" />
+    <!-- Horizontal Tiered Cornices -->
+    <line x1="-30" y1="-340" x2="30" y2="-340" stroke="#7A6858" stroke-width="8" />
+    <line x1="-50" y1="-260" x2="50" y2="-260" stroke="#7A6858" stroke-width="10" />
+    <line x1="-70" y1="-190" x2="70" y2="-190" stroke="#7A6858" stroke-width="12" />
+    <!-- Golden Kalasha Finial at Peak -->
+    <circle cx="0" cy="-430" r="14" fill="#D19C4C" stroke="#1A1410" stroke-width="2" />
+  </g>
+</svg>
