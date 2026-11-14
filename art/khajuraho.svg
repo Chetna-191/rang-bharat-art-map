@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="khajurahoStone" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#E5AF71" />
+      <stop offset="70%" stop-color="#C58742" />
+      <stop offset="100%" stop-color="#8C541D" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#khajurahoStone)" />
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#54300E" stroke-width="5" />
+
+  <!-- Soaring Nagara Shikhara Spire of Kandariya Mahadeva -->
+  <g transform="translate(320, 520)">
+    <!-- Base Platform (Jagati) -->
+    <rect x="-180" y="-80" width="360" height="80" fill="#784414" stroke="#3D2005" stroke-width="3" />
+    <!-- Horizontal Carved Sculptural Bands -->
+    <polygon points="0,-450 -130,-80 130,-80" fill="#A86728" stroke="#3D2005" stroke-width="3" />
+    
+      <line x1="-39.2" y1="-380" x2="39.2" y2="-380" stroke="#54300E" stroke-width="8" />
+    
+      <line x1="-56.00000000000001" y1="-320" x2="56.00000000000001" y2="-320" stroke="#54300E" stroke-width="8" />
+    
+      <line x1="-72.80000000000001" y1="-260" x2="72.80000000000001" y2="-260" stroke="#54300E" stroke-width="8" />
+    
+      <line x1="-89.60000000000001" y1="-200" x2="89.60000000000001" y2="-200" stroke="#54300E" stroke-width="8" />
+    
+      <line x1="-106.4" y1="-140" x2="106.4" y2="-140" stroke="#54300E" stroke-width="8" />
+    
+    <!-- Ribbed Amalaka and Golden Kalasha -->
+    <ellipse cx="0" cy="-455" rx="22" ry="9" fill="#D69B4B" stroke="#3D2005" stroke-width="2" />
+    <circle cx="0" cy="-470" r="8" fill="#F0C06E" />
+  </g>
+
+  <!-- Celestial Dancer (Surasundari / Apsara) Sculptural Relief at Right -->
+  <g transform="translate(620, 310)">
+    <ellipse cx="0" cy="-90" rx="30" ry="38" fill="#F0C06E" stroke="#54300E" stroke-width="2.5" />
+    <!-- Classical Tribhanga Stance Curve -->
+    <path d="M-20,-55 C0,-20 -30,50 10,130" stroke="#F0C06E" stroke-width="32" fill="none" stroke-linecap="round" />
+    <!-- Elaborate Stone Jewelry & Beaded Girdle (Mekhala) -->
+    <path d="M-25,10 Q5,30 35,10" stroke="#54300E" stroke-width="4" fill="none" />
+    <circle cx="5" cy="-95" r="4" fill="#54300E" />
+    <path d="M-10,-72 Q5,-65 20,-72" stroke="#54300E" stroke-width="2.5" fill="none" />
+  </g>
+</svg>

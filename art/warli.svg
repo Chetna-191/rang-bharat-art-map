@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="warliBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#843926" />
+      <stop offset="70%" stop-color="#692819" />
+      <stop offset="100%" stop-color="#4B1B10" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#warliBg)" />
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#F5EFE6" stroke-width="4" />
+  <rect x="34" y="34" width="732" height="532" fill="none" stroke="#F5EFE6" stroke-width="1.5" stroke-dasharray="8,6" />
+
+  <!-- Sun & Moon -->
+  <g transform="translate(110, 100)">
+    <circle cx="0" cy="0" r="28" fill="#F5EFE6" />
+    <path d="M0,-38 L0,-50 M0,38 L0,50 M-38,0 L-50,0 M38,0 L50,0 M-27,-27 L-36,-36 M27,27 L36,36 M-27,27 L-36,36 M27,-27 L36,-36" stroke="#F5EFE6" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <g transform="translate(690, 100)">
+    <path d="M-15,-25 A 30 30 0 1 0 25 25 A 24 24 0 1 1 -15 -25 Z" fill="#F5EFE6" />
+  </g>
+
+  <!-- Sacred Tree of Life -->
+  <g transform="translate(140, 500)">
+    <line x1="0" y1="0" x2="0" y2="-230" stroke="#F5EFE6" stroke-width="7" />
+    <polygon points="0,-250 -35,-200 35,-200" fill="#F5EFE6" />
+    <polygon points="0,-200 -55,-150 55,-150" fill="#F5EFE6" />
+    <polygon points="0,-150 -70,-100 70,-100" fill="#F5EFE6" />
+    <polygon points="0,-100 -85,-50 85,-50" fill="#F5EFE6" />
+  </g>
+
+  <!-- Central Tarpa Musician -->
+  <g transform="translate(420, 310)">
+    <circle cx="0" cy="-35" r="9" fill="#F5EFE6" />
+    <polygon points="0,-26 -14,-7 14,-7" fill="#F5EFE6" />
+    <polygon points="0,12 -14,-7 14,-7" fill="#F5EFE6" />
+    <line x1="-7" y1="12" x2="-12" y2="36" stroke="#F5EFE6" stroke-width="3" />
+    <line x1="7" y1="12" x2="12" y2="36" stroke="#F5EFE6" stroke-width="3" />
+    <path d="M6,-18 L48,-42 L52,-36 L10,-12 Z" fill="#F5EFE6" />
+    <path d="M48,-46 C60,-40 60,-25 45,-25 Z" fill="#F5EFE6" />
+  </g>
+
+  <!-- Concentric Dancers (Inner Ring) -->
+  <g stroke="#F5EFE6" stroke-width="2.5" fill="#F5EFE6">
+    <g transform="translate(510.0, 310.0) rotate(90) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(497.9, 355.0) rotate(120) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(465.0, 387.9) rotate(150) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(420.0, 400.0) rotate(180) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(375.0, 387.9) rotate(210) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(342.1, 355.0) rotate(240) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(330.0, 310.0) rotate(270) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(342.1, 265.0) rotate(300) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(375.0, 232.1) rotate(330) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(420.0, 220.0) rotate(360) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(465.0, 232.1) rotate(390) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(497.9, 265.0) rotate(420) scale(0.65)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g>
+
+    <!-- Outer Ring Dancers -->
+    <g transform="translate(579.4, 352.7) rotate(105) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(550.9, 410.4) rotate(127.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(502.5, 452.9) rotate(150) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(441.5, 473.6) rotate(172.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(377.3, 469.4) rotate(195) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(319.6, 440.9) rotate(217.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(277.1, 392.5) rotate(240) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(256.4, 331.5) rotate(262.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(260.6, 267.3) rotate(285) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(289.1, 209.6) rotate(307.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(337.5, 167.1) rotate(330) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(398.5, 146.4) rotate(352.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(462.7, 150.6) rotate(375) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(520.4, 179.1) rotate(397.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(562.9, 227.5) rotate(420) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g><g transform="translate(583.6, 288.5) rotate(442.5) scale(0.7)">
+        <circle cx="0" cy="-28" r="8" fill="#F5EFE6" />
+        <polygon points="0,-20 -12,-4 12,-4" fill="#F5EFE6" />
+        <polygon points="0,12 -12,-4 12,-4" fill="#F5EFE6" />
+        <line x1="-6" y1="12" x2="-10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="6" y1="12" x2="10" y2="30" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="-12" y1="-4" x2="-22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+        <line x1="12" y1="-4" x2="22" y2="-12" stroke="#F5EFE6" stroke-width="3" />
+      </g>
+  </g>
+
+  <!-- Village Animals and Hut -->
+  <g transform="translate(640, 480)">
+    <polygon points="0,-80 -55,0 55,0" fill="none" stroke="#F5EFE6" stroke-width="4" />
+    <rect x="-45" y="0" width="90" height="60" fill="none" stroke="#F5EFE6" stroke-width="4" />
+    <line x1="-45" y1="30" x2="45" y2="30" stroke="#F5EFE6" stroke-width="2" />
+  </g>
+</svg>

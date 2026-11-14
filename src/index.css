@@ -1,0 +1,238 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F6F1FD;
+    color: #2D1B44;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  .font-display {
+    font-family: 'Cinzel', Georgia, serif;
+  }
+}
+
+/* High-Contrast Royal Button Styles */
+.btn-royal-primary {
+  background: linear-gradient(135deg, #240E40 0%, #4C1D95 50%, #B45309 100%) !important;
+  color: #FFF2C6 !important;
+  border: 2px solid #D4AF37 !important;
+  box-shadow: 0 4px 20px rgba(76, 29, 149, 0.4), 0 0 15px rgba(212, 175, 55, 0.35) !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.btn-royal-primary:hover {
+  background: linear-gradient(135deg, #3B0764 0%, #6B21A8 50%, #D97706 100%) !important;
+  color: #FFFFFF !important;
+  border-color: #FFF2C6 !important;
+  box-shadow: 0 6px 25px rgba(76, 29, 149, 0.55), 0 0 25px rgba(212, 175, 55, 0.55) !important;
+}
+
+.btn-royal-secondary {
+  background: #FFFFFF !important;
+  color: #240E40 !important;
+  border: 2px solid #D4AF37 !important;
+  box-shadow: 0 4px 15px rgba(126, 34, 206, 0.12) !important;
+}
+
+.btn-royal-secondary:hover {
+  background: #F5EEFF !important;
+  color: #4C1D95 !important;
+  border-color: #B45309 !important;
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.25) !important;
+}
+
+/* Royal Lavender & Golden Tint Patterns */
+.bg-lavender-shimmer {
+  background: radial-gradient(circle at 50% 0%, rgba(212, 175, 55, 0.16) 0%, rgba(236, 226, 254, 0.75) 40%, #F6F1FD 80%);
+}
+
+.bg-lavender-mandala {
+  background-color: #F6F1FD;
+  background-image: 
+    radial-gradient(rgba(212, 175, 55, 0.18) 1px, transparent 1px), 
+    radial-gradient(rgba(147, 51, 234, 0.10) 1px, #F6F1FD 1px);
+  background-size: 36px 36px;
+  background-position: 0 0, 18px 18px;
+}
+
+.bg-lavender-jaali {
+  background-color: #F6F1FD;
+  background-image: 
+    linear-gradient(45deg, rgba(147, 51, 234, 0.04) 25%, transparent 25%, transparent 75%, rgba(147, 51, 234, 0.04) 75%),
+    linear-gradient(45deg, rgba(212, 175, 55, 0.06) 25%, transparent 25%, transparent 75%, rgba(212, 175, 55, 0.06) 75%);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+/* Backward-compatible pattern classes mapped to lavender */
+.bg-dark-mandala {
+  background-color: #FAF6FE;
+  background-image: 
+    radial-gradient(rgba(212, 175, 55, 0.22) 1px, transparent 1px), 
+    radial-gradient(rgba(147, 51, 234, 0.12) 1px, #FAF6FE 1px);
+  background-size: 36px 36px;
+  background-position: 0 0, 18px 18px;
+}
+
+.bg-dark-jaali {
+  background-color: #FAF6FE;
+  background-image: 
+    linear-gradient(45deg, rgba(147, 51, 234, 0.04) 25%, transparent 25%, transparent 75%, rgba(147, 51, 234, 0.04) 75%),
+    linear-gradient(45deg, rgba(212, 175, 55, 0.06) 25%, transparent 25%, transparent 75%, rgba(212, 175, 55, 0.06) 75%);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+/* Royal Lavender & Gold Text Gradients */
+.text-gold-gradient,
+.text-lavender-gold {
+  background: linear-gradient(135deg, #2A114B 0%, #581C87 35%, #B45309 75%, #D4AF37 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gold-foil {
+  background: linear-gradient(90deg, #92400E 0%, #D4AF37 40%, #F59E0B 70%, #B45309 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.editorial-line-gold {
+  position: relative;
+}
+.editorial-line-gold::after {
+  content: '❦';
+  display: block;
+  font-family: serif;
+  font-size: 1.15rem;
+  color: #D4AF37;
+  text-align: center;
+  margin-top: 0.5rem;
+  letter-spacing: 0.5em;
+  text-shadow: 0 0 10px rgba(212, 175, 55, 0.4);
+}
+
+/* Leaflet Container & Lavender-Gold Antique Cartography */
+.leaflet-container {
+  font-family: 'Inter', sans-serif !important;
+  background: #ECE2FE !important;
+  width: 100%;
+  height: 100%;
+  border-radius: 1.5rem;
+}
+
+/* Lavender-Gold Cartographic Filter */
+.dark-parchment-tiles .leaflet-tile-pane,
+.lavender-gold-tiles .leaflet-tile-pane {
+  filter: contrast(1.05) saturate(1.15) hue-rotate(222deg) sepia(0.2) brightness(1.02);
+}
+
+.leaflet-popup-content-wrapper {
+  background: #FFFFFF !important;
+  color: #2D1B44 !important;
+  border-radius: 20px !important;
+  box-shadow: 0 20px 45px -8px rgba(126, 34, 206, 0.25), 0 0 0 1.5px rgba(212, 175, 55, 0.75) !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.4 !important;
+}
+
+.leaflet-popup-tip {
+  background: #FFFFFF !important;
+}
+
+/* Radiant Lavender-Gold State Marker Styling */
+.state-map-pin {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3E196B 0%, #6B21A8 50%, #B45309 100%);
+  border: 2.5px solid #D4AF37;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFF2C6;
+  font-family: 'Cinzel', serif;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 4px 15px rgba(126, 34, 206, 0.35), 0 0 15px rgba(212, 175, 55, 0.7);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.state-map-pin:hover,
+.state-map-pin.active {
+  transform: scale(1.22);
+  border-color: #FFF2C6;
+  box-shadow: 0 6px 25px rgba(126, 34, 206, 0.5), 0 0 25px rgba(212, 175, 55, 0.95);
+  background: linear-gradient(135deg, #B45309 0%, #D4AF37 50%, #6B21A8 100%);
+  color: #240E40;
+}
+
+/* Animated Golden-Lavender Pulse Rings */
+.dark-map-pulse,
+.lavender-map-pulse {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  border: 2px solid rgba(212, 175, 55, 0.85);
+  box-shadow: 0 0 12px rgba(168, 85, 247, 0.45);
+  pointer-events: none;
+  animation: lavenderPulse 2.4s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+@keyframes lavenderPulse {
+  0% {
+    transform: scale(0.65);
+    opacity: 1;
+  }
+  70% {
+    transform: scale(1.6);
+    opacity: 0.15;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
+
+/* Elegant Lavender & Gold Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 9px;
+}
+::-webkit-scrollbar-track {
+  background: #ECE2FE;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #D4AF37 0%, #8B5CF6 100%);
+  border-radius: 6px;
+  border: 2px solid #ECE2FE;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #F59E0B 0%, #7C3AED 100%);
+}
+
+/* Soft Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.4s ease-out forwards;
+}

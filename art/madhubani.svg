@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="mithilaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF4E4" />
+      <stop offset="100%" stop-color="#EFE2C6" />
+    </linearGradient>
+    <pattern id="hatch" width="8" height="8" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#1D2A44" stroke-width="1.2" />
+    </pattern>
+  </defs>
+
+  <!-- Handmade Paper Texture Base -->
+  <rect width="800" height="600" fill="url(#mithilaBg)" />
+
+  <!-- Double-Line Ornate Border -->
+  <rect x="25" y="25" width="750" height="550" fill="none" stroke="#1D2A44" stroke-width="4" />
+  <rect x="35" y="35" width="730" height="530" fill="none" stroke="#B83B26" stroke-width="3" />
+  <rect x="45" y="45" width="710" height="510" fill="none" stroke="#1D2A44" stroke-width="2" />
+
+  <!-- Border Floral / Geometric Motifs -->
+  
+    <circle cx="60" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="60" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="140" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="140" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="220" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="220" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="300" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="300" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="380" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="380" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="460" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="460" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="540" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="540" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="620" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="620" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+    <circle cx="700" cy="35" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="700" cy="565" r="5" fill="#E59B27" stroke="#1D2A44" stroke-width="1.5" />
+  
+
+  <!-- Majestic Mithila Peacock (Mayura) -->
+  <g transform="translate(420, 330)">
+    <!-- Radiating Tail Feathers -->
+    
+      <g transform="rotate(-60)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(-45)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(-30)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(-15)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(0)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(15)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(30)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(45)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(60)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(75)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+      <g transform="rotate(90)">
+        <path d="M0,0 C-40,-120 -80,-200 0,-240 C80,-200 40,-120 0,0" fill="#2E7D5B" stroke="#1D2A44" stroke-width="3" />
+        <path d="M0,-60 C-25,-120 -40,-180 0,-210 C40,-180 25,-120 0,-60" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="14" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+        <circle cx="0" cy="-180" r="7" fill="#1D2A44" />
+      </g>
+    
+
+    <!-- Peacock Body -->
+    <path d="M-40,60 C-80,0 -60,-80 0,-90 C40,-90 60,-50 40,20 C30,60 0,80 -40,60 Z" fill="#205B82" stroke="#1D2A44" stroke-width="4" />
+    
+    <!-- Fine Cross-Hatching (Kachni Style) -->
+    <path d="M-25,40 C-50,0 -40,-60 0,-70 C25,-70 40,-40 25,10 Z" fill="url(#hatch)" stroke="#1D2A44" stroke-width="1.5" opacity="0.6" />
+
+    <!-- Neck & Head with Crown (Kalgi) -->
+    <path d="M-10,-85 C-20,-130 -10,-160 15,-170 C30,-175 40,-160 30,-140 C20,-120 15,-100 15,-80 Z" fill="#205B82" stroke="#1D2A44" stroke-width="3.5" />
+    <!-- Beak -->
+    <polygon points="35,-168 55,-165 35,-160" fill="#E59B27" stroke="#1D2A44" stroke-width="2" />
+    <!-- Eye (Distinctive Fish-Shape / Almond) -->
+    <ellipse cx="22" cy="-162" rx="7" ry="5" fill="#FFFFFF" stroke="#1D2A44" stroke-width="2" />
+    <circle cx="24" cy="-162" r="3" fill="#1D2A44" />
+    <!-- Crest / Kalgi -->
+    <path d="M12,-175 Q5,-195 0,-200 M18,-177 Q20,-202 24,-208 M22,-175 Q32,-195 40,-200" stroke="#1D2A44" stroke-width="2.5" fill="none" />
+    <circle cx="0" cy="-200" r="4" fill="#B83B26" />
+    <circle cx="24" cy="-208" r="4" fill="#E59B27" />
+    <circle cx="40" cy="-200" r="4" fill="#2E7D5B" />
+
+    <!-- Claws / Perch -->
+    <path d="M-15,70 L-25,110 M-10,75 L0,110 M20,65 L15,110 M25,70 L35,110" stroke="#1D2A44" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <!-- Sacred Twin Fish (Matsya) Motif -->
+  <g transform="translate(140, 160)">
+    <path d="M-50,0 C-20,-30 40,-20 70,0 C40,20 -20,30 -50,0 Z" fill="#E59B27" stroke="#1D2A44" stroke-width="3" />
+    <polygon points="-50,0 -80,-20 -70,0 -80,20" fill="#B83B26" stroke="#1D2A44" stroke-width="2" />
+    <circle cx="45" cy="-3" r="5" fill="#FFFFFF" stroke="#1D2A44" stroke-width="2" />
+    <circle cx="47" cy="-3" r="2" fill="#1D2A44" />
+    <line x1="-10" y1="-18" x2="-10" y2="18" stroke="#1D2A44" stroke-width="2" />
+    <line x1="10" y1="-16" x2="10" y2="16" stroke="#1D2A44" stroke-width="2" />
+    <line x1="30" y1="-12" x2="30" y2="12" stroke="#1D2A44" stroke-width="2" />
+  </g>
+
+  <!-- Radiant Mithila Sun God -->
+  <g transform="translate(680, 130)">
+    <circle cx="0" cy="0" r="32" fill="#B83B26" stroke="#1D2A44" stroke-width="3" />
+    <!-- Sun Facial Features -->
+    <ellipse cx="-10" cy="-5" rx="5" ry="3.5" fill="#FFFFFF" stroke="#1D2A44" stroke-width="1.5" />
+    <ellipse cx="10" cy="-5" rx="5" ry="3.5" fill="#FFFFFF" stroke="#1D2A44" stroke-width="1.5" />
+    <circle cx="-10" cy="-5" r="2" fill="#1D2A44" />
+    <circle cx="10" cy="-5" r="2" fill="#1D2A44" />
+    <path d="M-10,12 Q0,20 10,12" stroke="#1D2A44" stroke-width="2" fill="none" />
+    <circle cx="0" cy="2" r="3" fill="#E59B27" />
+    <!-- Rays -->
+    
+      <line x1="36.0" y1="0.0" x2="48.0" y2="0.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="31.2" y1="18.0" x2="41.6" y2="24.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="18.0" y1="31.2" x2="24.0" y2="41.6" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="0.0" y1="36.0" x2="0.0" y2="48.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-18.0" y1="31.2" x2="-24.0" y2="41.6" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-31.2" y1="18.0" x2="-41.6" y2="24.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-36.0" y1="0.0" x2="-48.0" y2="0.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-31.2" y1="-18.0" x2="-41.6" y2="-24.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-18.0" y1="-31.2" x2="-24.0" y2="-41.6" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="-0.0" y1="-36.0" x2="-0.0" y2="-48.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="18.0" y1="-31.2" x2="24.0" y2="-41.6" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+      <line x1="31.2" y1="-18.0" x2="41.6" y2="-24.0" stroke="#E59B27" stroke-width="3" stroke-linecap="round" />
+    
+  </g>
+
+  <!-- Sacred Lotus (Kamala) at base -->
+  <g transform="translate(180, 480)">
+    <path d="M0,0 C-30,-50 -60,-20 0,-80 C60,-20 30,-50 0,0" fill="#B83B26" stroke="#1D2A44" stroke-width="3" />
+    <path d="M0,0 C-50,-20 -80,10 -30,-40" fill="#2E7D5B" stroke="#1D2A44" stroke-width="2" />
+    <path d="M0,0 C50,-20 80,10 30,-40" fill="#2E7D5B" stroke="#1D2A44" stroke-width="2" />
+  </g>
+</svg>

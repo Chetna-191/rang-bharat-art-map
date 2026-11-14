@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="palmLeaf" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EADBBA" />
+      <stop offset="50%" stop-color="#D4C097" />
+      <stop offset="100%" stop-color="#BFAF88" />
+    </linearGradient>
+  </defs>
+  <!-- Slender Stitched Dried Palmyra Palm Leaves -->
+  <rect width="800" height="600" fill="#2E1C0C" />
+  
+  <!-- Palm Leaf Strips Stitched with Thread -->
+  
+    <rect x="50" y="60" width="700" height="90" fill="url(#palmLeaf)" stroke="#523B20" stroke-width="2" rx="4" />
+    <circle cx="90" cy="105" r="5" fill="#2E1C0C" />
+    <circle cx="710" cy="105" r="5" fill="#2E1C0C" />
+    <line x1="90" y1="60" x2="90" y2="150" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+    <line x1="710" y1="60" x2="710" y2="150" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+  
+    <rect x="50" y="160" width="700" height="90" fill="url(#palmLeaf)" stroke="#523B20" stroke-width="2" rx="4" />
+    <circle cx="90" cy="205" r="5" fill="#2E1C0C" />
+    <circle cx="710" cy="205" r="5" fill="#2E1C0C" />
+    <line x1="90" y1="160" x2="90" y2="250" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+    <line x1="710" y1="160" x2="710" y2="250" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+  
+    <rect x="50" y="260" width="700" height="90" fill="url(#palmLeaf)" stroke="#523B20" stroke-width="2" rx="4" />
+    <circle cx="90" cy="305" r="5" fill="#2E1C0C" />
+    <circle cx="710" cy="305" r="5" fill="#2E1C0C" />
+    <line x1="90" y1="260" x2="90" y2="350" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+    <line x1="710" y1="260" x2="710" y2="350" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+  
+    <rect x="50" y="360" width="700" height="90" fill="url(#palmLeaf)" stroke="#523B20" stroke-width="2" rx="4" />
+    <circle cx="90" cy="405" r="5" fill="#2E1C0C" />
+    <circle cx="710" cy="405" r="5" fill="#2E1C0C" />
+    <line x1="90" y1="360" x2="90" y2="450" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+    <line x1="710" y1="360" x2="710" y2="450" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+  
+    <rect x="50" y="460" width="700" height="90" fill="url(#palmLeaf)" stroke="#523B20" stroke-width="2" rx="4" />
+    <circle cx="90" cy="505" r="5" fill="#2E1C0C" />
+    <circle cx="710" cy="505" r="5" fill="#2E1C0C" />
+    <line x1="90" y1="460" x2="90" y2="550" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+    <line x1="710" y1="460" x2="710" y2="550" stroke="#917248" stroke-width="2" stroke-dasharray="4,4" />
+  
+
+  <!-- Microscopic Incised Black Iron Stylus Engravings (Dashavatara Panels) -->
+  
+    <g transform="translate(180, 305)">
+      <rect x="-50" y="-70" width="100" height="140" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <circle cx="0" cy="-35" r="20" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <path d="M-25,10 Q0,50 25,10" stroke="#2E1C0C" stroke-width="2" fill="none" />
+      <line x1="-40" y1="-60" x2="40" y2="-60" stroke="#2E1C0C" stroke-width="1" />
+      <line x1="-40" y1="60" x2="40" y2="60" stroke="#2E1C0C" stroke-width="1" />
+    </g>
+  
+    <g transform="translate(320, 305)">
+      <rect x="-50" y="-70" width="100" height="140" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <circle cx="0" cy="-35" r="20" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <path d="M-25,10 Q0,50 25,10" stroke="#2E1C0C" stroke-width="2" fill="none" />
+      <line x1="-40" y1="-60" x2="40" y2="-60" stroke="#2E1C0C" stroke-width="1" />
+      <line x1="-40" y1="60" x2="40" y2="60" stroke="#2E1C0C" stroke-width="1" />
+    </g>
+  
+    <g transform="translate(460, 305)">
+      <rect x="-50" y="-70" width="100" height="140" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <circle cx="0" cy="-35" r="20" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <path d="M-25,10 Q0,50 25,10" stroke="#2E1C0C" stroke-width="2" fill="none" />
+      <line x1="-40" y1="-60" x2="40" y2="-60" stroke="#2E1C0C" stroke-width="1" />
+      <line x1="-40" y1="60" x2="40" y2="60" stroke="#2E1C0C" stroke-width="1" />
+    </g>
+  
+    <g transform="translate(600, 305)">
+      <rect x="-50" y="-70" width="100" height="140" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <circle cx="0" cy="-35" r="20" fill="none" stroke="#2E1C0C" stroke-width="2" />
+      <path d="M-25,10 Q0,50 25,10" stroke="#2E1C0C" stroke-width="2" fill="none" />
+      <line x1="-40" y1="-60" x2="40" y2="-60" stroke="#2E1C0C" stroke-width="1" />
+      <line x1="-40" y1="60" x2="40" y2="60" stroke="#2E1C0C" stroke-width="1" />
+    </g>
+  
+</svg>
